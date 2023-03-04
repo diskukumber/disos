@@ -7,7 +7,7 @@ This repository will be updated as development progresses.
 ## Details
 - distribution : openSUSE Tumbleweed
 - Terminal Emulator : kitty
-- Application launcher : Rofi Wayland
+- Applications launcher : Rofi Wayland
 - Bar : Waybar
 - Wallpaper : (mpvpaper) for live wallpaper / (swaybg) for static wallpaper
 - Polkit : KDE Polkit
@@ -21,16 +21,18 @@ This repository will be updated as development progresses.
 ## Some important Key bindings
 - Super + Shift + Q (Exit hyprland)
 - Super + Q (kills active window)
-- Super + R (Application launcher)
+- Super + R (Applications launcher)
 - Super + Enter (Terminal Emulator)
 
 ## Work In Progress
 
-- [x] Adding Taskbar Module to Waybar
+- [x] Adding Taskbar Module to Waybar.
 - [ ] Setting Taskbar to only show applications of current Active workspace.
-- [x] Adding System Tray Module to Waybar
-- [x] Adding show current Active Window to Waybar
-- [x] Adding custom Application launcher Module to Waybar
+- [ ] Adding Workspaces Module to Waybar.
+- [ ] Fix Mouse Right Click Minimize Application Not Working in Waybar Taskbar.
+- [x] Adding System Tray Module to Waybar.
+- [x] Adding show current Active Window to Waybar.
+- [x] Adding custom Application launcher Module to Waybar.
 - [ ] More Customizations for Waybar - Clock, Network Monitoring, etc.
 
 # known issues
