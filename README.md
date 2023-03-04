@@ -46,3 +46,14 @@ This repository will be updated as development progresses.
 - Some of Xorg Applications (X11), does not work with Wayland session (XWayland).
 - Some of native Wayland Applications, does not work.
 - wlr Modules working in config files but doesn't show up on waybar.
+
+# Stars Over Time
+
+<br>
+
+[![Stars Preview]][Stars]
+
+<br>
+<br>
+
+</div>
