@@ -20,7 +20,7 @@ This repository will be updated as development progresses.
 
 # Features
 
-- Easily expandable and readable codebase
+- gestures - 3 Finger Swipe Switch Workspace
 
 ## screenshots
 ![Screenshot](/screenshots/2.png)
