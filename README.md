@@ -20,7 +20,7 @@ This repository will be updated as development progresses
 
 ## Work In Progress
 
-- [ ] Help Popup with Hotkey
+- [ ] Setting Waybar to only show applications of current Active workspace. 
 - [ ] Wayland guide for nwg-look, wlr-randr, etc.
 - [ ] Synergy Workaround - Looking at waynergy or just using KVM
 - [ ] Gamescope Addition - Adding more parity with Steamdeck features
@@ -28,4 +28,7 @@ This repository will be updated as development progresses
 - [ ] Auto-configuration - Long term goal
 
 # known issues
-## Waybar
+- Flameshot and OBS, can't capture desktop.
+- Some of Xorg Applications (X11), does not work with Wayland session (XWayland).
+- Some of native Wayland Applications, does not work.
+- waybar doesn't show workspaces.
