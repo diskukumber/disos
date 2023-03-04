@@ -18,6 +18,10 @@ This repository will be updated as development progresses.
 - Wallpaper : (mpvpaper) for live wallpaper / (swaybg) for static wallpaper
 - Polkit : KDE Polkit
 
+# Features
+
+- Easily expandable and readable codebase
+
 ## screenshots
 ![Screenshot](/screenshots/2.png)
 ![Screenshot](/screenshots/1.png)
@@ -47,13 +51,3 @@ This repository will be updated as development progresses.
 - Some of native Wayland Applications, does not work.
 - wlr Modules working in config files but doesn't show up on waybar.
 
-# Stars Over Time
-
-<br>
-
-[![Stars Preview]][Stars]
-
-<br>
-<br>
-
-</div>
