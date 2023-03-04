@@ -23,6 +23,7 @@ This repository will be updated as development progresses.
 - Waybar Taskbar, Mouse Right Click Minimize Application.
 - Waybar Taskbar, Mouse Middle click Close Application.
 - Waybar Taskbar, Mouse Left Click Maximize or Active Application.
+- Hyprland Super + Mouse Scroll Switch Workspace.
 
 ## screenshots
 ![Screenshot](/screenshots/2.png)
