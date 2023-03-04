@@ -19,8 +19,10 @@ This repository will be updated as development progresses.
 - Polkit : KDE Polkit
 
 # Features
-
-- gestures - 3 Finger Swipe Switch Workspace
+- Hyprland gestures, - 3 Finger Swipe Switch Workspace.
+- Waybar Taskbar, Mouse Right Click Minimize Application.
+- Waybar Taskbar, Mouse Middle click Close Application.
+- Waybar Taskbar, Mouse Left Click Maximize or Active Application.
 
 ## screenshots
 ![Screenshot](/screenshots/2.png)
@@ -35,7 +37,6 @@ This repository will be updated as development progresses.
 - Super + Enter (Terminal Emulator)
 
 ## Work In Progress
-
 - [x] Adding Taskbar Module to Waybar.
 - [ ] Setting Taskbar to only show applications of current Active workspace.
 - [ ] Adding Workspaces Module to Waybar.
@@ -50,4 +51,3 @@ This repository will be updated as development progresses.
 - Some of Xorg Applications (X11), does not work with Wayland session (XWayland).
 - Some of native Wayland Applications, does not work.
 - wlr Modules working in config files but doesn't show up on waybar.
-
