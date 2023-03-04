@@ -18,6 +18,12 @@ This repository will be updated as development progresses.
 ![Screenshot](/screenshots/3.png)
 ![Screenshot](/screenshots/4.png)
 
+## Some important Key bindings
+- Super + Shift + Q (Exit hyprland)
+- Super + Q (kills active window)
+- Super + R (Application launcher)
+- Super + Enter (Terminal Emulator)
+
 ## Work In Progress
 
 - [ ] Setting Waybar to only show applications of current Active workspace. 
