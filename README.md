@@ -28,7 +28,7 @@ This repository will be updated as development progresses.
 - Hyprland Super + Mouse Scroll Switch Workspace.
 
 ## screenshots
-![Screenshot](/screenshots/1.png)
+![Screenshot](/gallery/1.png)
 
 
 ## Some important Key bindings
