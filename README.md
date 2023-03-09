@@ -28,10 +28,8 @@ This repository will be updated as development progresses.
 - Hyprland Super + Mouse Scroll Switch Workspace.
 
 ## screenshots
-![Screenshot](/screenshots/2.png)
 ![Screenshot](/screenshots/1.png)
-![Screenshot](/screenshots/3.png)
-![Screenshot](/screenshots/4.png)
+
 
 ## Some important Key bindings
 - Super + Shift + Q (Exit hyprland)
