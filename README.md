@@ -18,7 +18,7 @@ This repository will be updated as development progresses.
 - Applications launcher : wofi
 - Bar : Waybar
 - Wallpaper : (mpvpaper) for live wallpaper / (swaybg) for static wallpaper
-- Polkit : LXQt PolicyKit agent
+- Polkit : polkit-kde-agent
 - Antivirus : ClamAV / ClamTk GUI
 - Firewall : UFW / Gufw GUI
 - command-line text editor : Neovim
