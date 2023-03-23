@@ -15,7 +15,7 @@ This repository will be updated as development progresses.
 ## Details
 - distribution : Arch Linux
 - Terminal Emulator : kitty
-- Applications launcher : wofi
+- Applications launcher : Rofi
 - Bar : Waybar
 - Wallpaper : (mpvpaper) for live wallpaper / (swaybg) for static wallpaper
 - Polkit : polkit-kde-agent
