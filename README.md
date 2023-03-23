@@ -13,12 +13,17 @@ Khairy Ibrahim dotfiles for Hyprland, Wayland compositor.
 This repository will be updated as development progresses.
 
 ## Details
-- distribution : openSUSE Tumbleweed
+- distribution : Arch Linux
 - Terminal Emulator : kitty
-- Applications launcher : Rofi Wayland
+- Applications launcher : wofi
 - Bar : Waybar
 - Wallpaper : (mpvpaper) for live wallpaper / (swaybg) for static wallpaper
-- Polkit : KDE Polkit
+- Polkit : LXQt PolicyKit agent
+- Antivirus : ClamAV / ClamTk GUI
+- Firewall : UFW / Gufw GUI
+- command-line text editor : Neovim
+- GUI Text Editor : Visual Studio Code
+- shell : fish
 
 # Features
 - Hyprland gestures, - 3 Finger Swipe Switch Workspace.
