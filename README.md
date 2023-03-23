@@ -24,6 +24,7 @@ This repository will be updated as development progresses.
 - command-line text editor : Neovim
 - GUI Text Editor : Visual Studio Code
 - shell : fish
+- File Manager : Nemo
 
 # Features
 - Hyprland gestures, - 3 Finger Swipe Switch Workspace.
