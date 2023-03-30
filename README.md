@@ -12,9 +12,9 @@ Khairy Ibrahim dotfiles for Hyprland, Wayland compositor.
 # still under development
 This repository will be updated as development progresses.
 
-## Details
+
 <details>
-<summary><b>LONG READ</b></summary>
+<summary><b>Details</b></summary>
 
 * **Distribution** •  [Arch Linux](https://github.com/archlinux)
 * **Window Manager** •  [Hyprland](https://github.com/hyprwm/Hyprland)
@@ -39,7 +39,11 @@ This repository will be updated as development progresses.
 
 * **Screen Brightness** •  [backlight control](https://github.com/Hendrikto/backlight_control)
 * **GPU switching** •  [Optimus Manager](https://github.com/Askannz/optimus-manager) • [Optimus Manager Qt](https://github.com/Shatur/optimus-manager-qt)
-# Features
+
+  
+  <details>
+<summary><b>Details</b></summary>
+  # Features
 - Hyprland gestures, - 3 Finger Swipe Switch Workspace.
 - Waybar Taskbar, Mouse Right Click Minimize Application.
 - Waybar Taskbar, Mouse Middle click Close Application.
