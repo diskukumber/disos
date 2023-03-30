@@ -33,7 +33,7 @@ This repository will be updated as development progresses.
 * **System Shell** •  [Bash](https://archlinux.org/packages/core/x86_64/bash/)
 
 * **Logout Menu** •  [wlogout](https://github.com/ArtsyMacaw/wlogout)
-
+* **Screen locker** •  [swaylock effects](https://github.com/mortie/swaylock-effects)
 
 
 
