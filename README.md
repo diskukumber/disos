@@ -29,10 +29,8 @@ This repository will be updated as development progresses.
 * **text editor** •  [Visual Studio Code](https://github.com/microsoft/vscode)
 * **Terminal File Manager** •  [LF](https://github.com/gokcehan/lf)
 * **File Manager** •  [Nemo](https://github.com/linuxmint/nemo)
-
-
-- shell : fish
-
+* **Interactive Shell** •  [fish](https://github.com/fish-shell/fish-shell)
+* **System Shell** •  [Bash](https://archlinux.org/packages/core/x86_64/bash/)
 
 # Features
 - Hyprland gestures, - 3 Finger Swipe Switch Workspace.
