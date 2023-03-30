@@ -15,7 +15,7 @@ This repository will be updated as development progresses.
 ## Details
 
 
-* **Distribution** •  [Arch Linux](https://archlinux.org/)
+* **Distribution** •  [Arch Linux](https://github.com/archlinux)
 * **Terminal Emulator** •  [Kitty](https://github.com/kovidgoyal/kitty)
 * **Applications launcher** •  [Rofi Wayland](https://github.com/lbonn/rofi)
 * **Bar** •  [Waybar](https://github.com/Alexays/Waybar)
