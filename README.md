@@ -16,7 +16,10 @@ This repository will be updated as development progresses.
 
 
 * **Distribution** • Arch Linux
-- Terminal Emulator : kitty
+* **Terminal Emulator** •  [Kitty](https://github.com/hyprwm/Hyprland)🎨 Tiles Everywhere!
+* **Applications launcher** • 
+* **Distribution** • 
+-  : kitty
 - Applications launcher : Rofi
 - Bar : Waybar
 - Wallpaper : (mpvpaper) for live wallpaper / (swaybg) for static wallpaper
