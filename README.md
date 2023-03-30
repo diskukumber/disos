@@ -16,7 +16,7 @@ This repository will be updated as development progresses.
 
 
 * **Distribution** •  [Arch Linux](https://archlinux.org/)
-* **Terminal Emulator** •  [Kitty](https://sw.kovidgoyal.net/kitty/)
+* **Terminal Emulator** •  [Kitty](https://github.com/kovidgoyal/kitty)
 * **Applications launcher** •  [Rofi Wayland](https://github.com/lbonn/rofi)
 * **Bar** •  [Waybar](https://github.com/Alexays/Waybar)
 - Wallpaper : (mpvpaper) for live wallpaper / (swaybg) for static wallpaper
