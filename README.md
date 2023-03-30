@@ -19,6 +19,9 @@ This repository will be updated as development progresses.
 * **Terminal Emulator** •  [Kitty](https://github.com/kovidgoyal/kitty)
 * **Applications launcher** •  [Rofi Wayland](https://github.com/lbonn/rofi)
 * **Bar** •  [Waybar](https://github.com/Alexays/Waybar)
+* **Live Wallpapers** •  [mpvpaper](https://github.com/GhostNaN/mpvpaper)
+* **Static Wallpapers** •  [swaybg](https://github.com/swaywm/swaybg)
+* 
 - Wallpaper : (mpvpaper) for live wallpaper / (swaybg) for static wallpaper
 - Polkit : polkit-kde-agent
 - Antivirus : ClamAV / ClamTk GUI
