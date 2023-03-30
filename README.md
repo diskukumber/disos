@@ -23,7 +23,7 @@ This repository will be updated as development progresses.
 * **Live Wallpapers** •  [mpvpaper](https://github.com/GhostNaN/mpvpaper)
 * **Static Wallpapers** •  [swaybg](https://github.com/swaywm/swaybg)
 * **Polkit authentication** •  [polkit-kde-agent-1](https://github.com/KDE/polkit-kde-agent-1)
-* **Antivirus** •  [ClamAV](https://github.com/Cisco-Talos/clamav)  [ClamTk](https://github.com/dave-theunsub/clamtk)
+* **Antivirus** •  [ClamAV](https://github.com/Cisco-Talos/clamav) • [ClamTk](https://github.com/dave-theunsub/clamtk)
 - Antivirus : ClamAV / ClamTk GUI
 - Firewall : UFW / Gufw GUI
 - command-line text editor : Neovim
