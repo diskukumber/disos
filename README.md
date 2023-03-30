@@ -16,6 +16,7 @@ This repository will be updated as development progresses.
 
 
 * **Distribution** •  [Arch Linux](https://github.com/archlinux)
+* **Window Manager** •  [Hyprland](https://github.com/hyprwm/Hyprland)
 * **Terminal Emulator** •  [Kitty](https://github.com/kovidgoyal/kitty)
 * **Applications launcher** •  [Rofi Wayland](https://github.com/lbonn/rofi)
 * **Bar** •  [Waybar](https://github.com/Alexays/Waybar)
