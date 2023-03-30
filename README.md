@@ -13,7 +13,9 @@ Khairy Ibrahim dotfiles for Hyprland, Wayland compositor.
 This repository will be updated as development progresses.
 
 ## Details
-- distribution : Arch Linux
+
+
+* **Window Manager** • Arch Linux
 - Terminal Emulator : kitty
 - Applications launcher : Rofi
 - Bar : Waybar
