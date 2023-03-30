@@ -34,8 +34,8 @@ This repository will be updated as development progresses.
 
 * **Logout Menu** •  [wlogout](https://github.com/ArtsyMacaw/wlogout)
 * **Screen locker** •  [swaylock effects](https://github.com/mortie/swaylock-effects)
+**Laptops**
 
-## Laptops
 * **Screen Brightness** •  [backlight control](https://github.com/Hendrikto/backlight_control)
 
 # Features
