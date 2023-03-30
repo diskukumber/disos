@@ -32,6 +32,11 @@ This repository will be updated as development progresses.
 * **Interactive Shell** •  [fish](https://github.com/fish-shell/fish-shell)
 * **System Shell** •  [Bash](https://archlinux.org/packages/core/x86_64/bash/)
 
+* **Logout Menu** •  [wlogout](https://github.com/ArtsyMacaw/wlogout)
+
+
+
+
 # Features
 - Hyprland gestures, - 3 Finger Swipe Switch Workspace.
 - Waybar Taskbar, Mouse Right Click Minimize Application.
