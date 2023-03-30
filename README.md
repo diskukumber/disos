@@ -25,9 +25,11 @@ This repository will be updated as development progresses.
 * **Polkit authentication** •  [polkit-kde-agent-1](https://github.com/KDE/polkit-kde-agent-1)
 * **Antivirus** •  [ClamAV](https://github.com/Cisco-Talos/clamav) • [ClamTk](https://github.com/dave-theunsub/clamtk)
 * **Firewall** •  [UFW](https://archlinux.org/packages/community/any/ufw/) • [Gufw](https://github.com/costales/gufw)
+* **Terminal text editor** •  [Neovim](https://github.com/neovim/neovim)
+* **text editor** •  [Visual Studio Code](https://github.com/microsoft/vscode)
 
-- command-line text editor : Neovim
-- GUI Text Editor : Visual Studio Code
+
+
 - shell : fish
 - File Manager : Nemo
 
