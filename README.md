@@ -31,14 +31,12 @@ This repository will be updated as development progresses.
 * **File Manager** •  [Nemo](https://github.com/linuxmint/nemo)
 * **Interactive Shell** •  [fish](https://github.com/fish-shell/fish-shell)
 * **System Shell** •  [Bash](https://archlinux.org/packages/core/x86_64/bash/)
-
 * **Logout Menu** •  [wlogout](https://github.com/ArtsyMacaw/wlogout)
 * **Screen locker** •  [swaylock effects](https://github.com/mortie/swaylock-effects)
+* **Notification Daemon** •  [Dunst](https://github.com/dunst-project/dunst)
+
 * **Laptops**
-
 * **Power Management** •  [TLP](https://github.com/linrunner/TLP) • [TLPUI](https://github.com/d4nj1/TLPUI) • [auto cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) • [Slimbook Battery](https://github.com/Slimbook-Team/slimbookbattery) • [PowerTOP](https://github.com/fenrus75/powertop)
-
-
 * **GPU switching** •  [Optimus Manager](https://github.com/Askannz/optimus-manager) • [Optimus Manager Qt](https://github.com/Shatur/optimus-manager-qt)
 
   
