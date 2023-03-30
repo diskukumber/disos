@@ -27,7 +27,7 @@ This repository will be updated as development progresses.
 * **Firewall** •  [UFW](https://archlinux.org/packages/community/any/ufw/) • [Gufw](https://github.com/costales/gufw)
 * **Terminal text editor** •  [Neovim](https://github.com/neovim/neovim)
 * **text editor** •  [Visual Studio Code](https://github.com/microsoft/vscode)
-* **Terminal File Manager** •  [Neovim](https://github.com/neovim/neovim)
+* **Terminal File Manager** •  [LF](https://github.com/gokcehan/lf)
 * **File Manager** •  [Nemo](https://github.com/linuxmint/nemo)
 
 
