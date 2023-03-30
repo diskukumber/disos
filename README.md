@@ -15,7 +15,7 @@ This repository will be updated as development progresses.
 ## Details
 
 
-* **Window Manager** • Arch Linux
+* **Distribution** • Arch Linux
 - Terminal Emulator : kitty
 - Applications launcher : Rofi
 - Bar : Waybar
