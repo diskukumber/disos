@@ -37,7 +37,7 @@ This repository will be updated as development progresses.
 * **Laptops**
 
 * **Screen Brightness** •  [backlight control](https://github.com/Hendrikto/backlight_control)
-
+* **GPU switching** •  [Optimus Manager](https://github.com/Askannz/optimus-manager) • [Optimus Manager Qt](https://github.com/Shatur/optimus-manager-qt)
 # Features
 - Hyprland gestures, - 3 Finger Swipe Switch Workspace.
 - Waybar Taskbar, Mouse Right Click Minimize Application.
