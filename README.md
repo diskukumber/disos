@@ -34,6 +34,7 @@ This repository will be updated as development progresses.
 * **Logout Menu** •  [wlogout](https://github.com/ArtsyMacaw/wlogout)
 * **Screen locker** •  [swaylock effects](https://github.com/mortie/swaylock-effects)
 * **Notification Daemon** •  [Dunst](https://github.com/dunst-project/dunst)
+* **Audio Control** •  [pavucontrol](https://github.com/pulseaudio/pavucontrol) • [pasystray](https://github.com/christophgysin/pasystray) • [QjackCtl](https://github.com/rncbc/qjackctl) • [qpwgraph](https://github.com/rncbc/qpwgraph)
 
 * **Laptops**
 * **Power Management** •  [TLP](https://github.com/linrunner/TLP) • [TLPUI](https://github.com/d4nj1/TLPUI) • [auto cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) • [Slimbook Battery](https://github.com/Slimbook-Team/slimbookbattery) • [PowerTOP](https://github.com/fenrus75/powertop)
