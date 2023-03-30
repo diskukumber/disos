@@ -13,7 +13,7 @@ Khairy Ibrahim dotfiles for Hyprland, Wayland compositor.
 This repository will be updated as development progresses.
 
 ## Details
-
+<summary><b>LONG READ</b></summary>
 
 * **Distribution** •  [Arch Linux](https://github.com/archlinux)
 * **Window Manager** •  [Hyprland](https://github.com/hyprwm/Hyprland)
