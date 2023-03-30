@@ -21,8 +21,7 @@ This repository will be updated as development progresses.
 * **Bar** •  [Waybar](https://github.com/Alexays/Waybar)
 * **Live Wallpapers** •  [mpvpaper](https://github.com/GhostNaN/mpvpaper)
 * **Static Wallpapers** •  [swaybg](https://github.com/swaywm/swaybg)
-* 
-- Wallpaper : (mpvpaper) for live wallpaper / (swaybg) for static wallpaper
+* **Polkit authentication** •  [polkit-kde-agent-1](https://github.com/KDE/polkit-kde-agent-1)
 - Polkit : polkit-kde-agent
 - Antivirus : ClamAV / ClamTk GUI
 - Firewall : UFW / Gufw GUI
