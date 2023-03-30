@@ -27,11 +27,12 @@ This repository will be updated as development progresses.
 * **Firewall** •  [UFW](https://archlinux.org/packages/community/any/ufw/) • [Gufw](https://github.com/costales/gufw)
 * **Terminal text editor** •  [Neovim](https://github.com/neovim/neovim)
 * **text editor** •  [Visual Studio Code](https://github.com/microsoft/vscode)
-
+* **Terminal File Manager** •  [Neovim](https://github.com/neovim/neovim)
+* **File Manager** •  [Nemo](https://github.com/linuxmint/nemo)
 
 
 - shell : fish
-- File Manager : Nemo
+
 
 # Features
 - Hyprland gestures, - 3 Finger Swipe Switch Workspace.
