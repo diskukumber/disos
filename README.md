@@ -24,8 +24,8 @@ This repository will be updated as development progresses.
 * **Static Wallpapers** •  [swaybg](https://github.com/swaywm/swaybg)
 * **Polkit authentication** •  [polkit-kde-agent-1](https://github.com/KDE/polkit-kde-agent-1)
 * **Antivirus** •  [ClamAV](https://github.com/Cisco-Talos/clamav) • [ClamTk](https://github.com/dave-theunsub/clamtk)
-- Antivirus : ClamAV / ClamTk GUI
-- Firewall : UFW / Gufw GUI
+* **Firewall** •  [UFW](https://archlinux.org/packages/community/any/ufw/) • [Gufw](https://github.com/costales/gufw)
+
 - command-line text editor : Neovim
 - GUI Text Editor : Visual Studio Code
 - shell : fish
