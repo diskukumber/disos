@@ -16,7 +16,7 @@ This repository will be updated as development progresses.
 
 
 * **Distribution** • Arch Linux
-* **Terminal Emulator** •  [Kitty](https://github.com/hyprwm/Hyprland)🎨 Tiles Everywhere!
+* **Terminal Emulator** •  [Kitty](https://github.com/kovidgoyal/kitty)
 * **Applications launcher** • 
 * **Distribution** • 
 -  : kitty
