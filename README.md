@@ -15,7 +15,7 @@ This repository will be updated as development progresses.
 ## Details
 
 
-* **Distribution** • Arch Linux
+* **Distribution** •  [Arch Linux](https://archlinux.org/)
 * **Terminal Emulator** •  [Kitty](https://github.com/kovidgoyal/kitty)
 * **Applications launcher** • 
 * **Distribution** • 
