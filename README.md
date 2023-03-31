@@ -32,6 +32,9 @@ This repository will be updated as development progresses.
 * **Interactive Shell** •  [fish](https://github.com/fish-shell/fish-shell)
 * **System Shell** •  [Bash](https://archlinux.org/packages/core/x86_64/bash/)
 * **Logout Menu** •  [wlogout](https://github.com/ArtsyMacaw/wlogout)
+
+* **Themes** •  [lxappearance](https://github.com/lxde/lxappearance) • [qt6ct](https://github.com/trialuser02/qt6ct) • [nwg look](https://github.com/nwg-piotr/nwg-look) • [Kvantum](https://github.com/tsujan/Kvantum)
+
 * **Screen locker** •  [swaylock effects](https://github.com/mortie/swaylock-effects)
 * **Notification Daemon** •  [Dunst](https://github.com/dunst-project/dunst)
 * **Audio Control** •  [pavucontrol](https://github.com/pulseaudio/pavucontrol) • [pasystray](https://github.com/christophgysin/pasystray) • [QjackCtl](https://github.com/rncbc/qjackctl) • [qpwgraph](https://github.com/rncbc/qpwgraph)
