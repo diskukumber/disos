@@ -22,7 +22,7 @@ This repository will be updated as development progresses.
 * **Bar** •  [Waybar](https://github.com/Alexays/Waybar)
 * **Live Wallpapers** •  [mpvpaper](https://github.com/GhostNaN/mpvpaper)
 * **Static Wallpapers** •  [swaybg](https://github.com/swaywm/swaybg)
-* **Polkit authentication** •  [polkit-kde-agent-1](https://github.com/KDE/polkit-kde-agent-1)
+* **Polkit authentication** •  [xfce-polkit](https://github.com/ncopa/xfce-polkit)
 * **Antivirus** •  [ClamAV](https://github.com/Cisco-Talos/clamav) • [ClamTk](https://github.com/dave-theunsub/clamtk)
 * **Firewall** •  [UFW](https://archlinux.org/packages/community/any/ufw/) • [Gufw](https://github.com/costales/gufw)
 * **Terminal text editor** •  [Neovim](https://github.com/neovim/neovim)
