@@ -91,7 +91,22 @@ This repository will be updated as development progresses.
 
 ```sh
 ## Hyprland Stuff
-yay -S hyprland waybar swaync swww
+yay -S hyprland xdg-desktop-portal-hyprland waybar swaync swww
 rofi-lbonn-wayland-git 
 ```
 
+
+</details>
+
+<details>
+<summary><h3>Dependencies</h3></summary>
+
+- Installation using paru
+
+```sh
+## Dependencies
+yay -S ffmpegthumbnailer tumbler xorg-xwayland xwaylandvideobridge-bin
+qt5-wayland qt5ct qt6-wayland qt6ct
+```
+
+</details>
