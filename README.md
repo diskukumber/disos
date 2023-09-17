@@ -79,3 +79,19 @@ This repository will be updated as development progresses.
 - Some of Xorg Applications (X11), does not work with Wayland session (XWayland).
 - Some of native Wayland Applications, does not work.
 - wlr Modules working in config files but doesn't show up on waybar.
+
+
+## INSTALLATION
+<div align="left">
+
+<details>
+<summary><h3>Hyprland Stuff</h3></summary>
+
+- Installation using yay
+
+```sh
+## Hyprland Stuff
+yay -S hyprland-git hyprpicker-git waybar-git \
+dunst nwg-look wf-recorder wlogout wlsunset
+```
+
