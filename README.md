@@ -91,7 +91,7 @@ This repository will be updated as development progresses.
 
 ```sh
 ## Hyprland Stuff
-yay -S hyprland-git hyprpicker-git waybar-git \
+yay -S hyprland-git hyprpicker-git waybar-git
 dunst nwg-look wf-recorder wlogout wlsunset
 ```
 
