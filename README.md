@@ -94,19 +94,35 @@ This repository will be updated as development progresses.
 yay -S hyprland xdg-desktop-portal-hyprland waybar swaync swww
 rofi-lbonn-wayland-git 
 ```
-
-
 </details>
+
+
+
+
 
 <details>
 <summary><h3>Dependencies</h3></summary>
 
-- Installation using paru
+- Installation using yay
 
 ```sh
 ## Dependencies
-yay -S ffmpegthumbnailer tumbler xorg-xwayland xwaylandvideobridge-bin
-qt5-wayland qt5ct qt6-wayland qt6ct
+yay -S ffmpegthumbnailer tumbler xorg-xwayland xwaylandvideobridge-cursor-mode-2-git
+qt5-wayland qt5ct qt6-wayland qt6ct bluez bluez-utils blueman cliphist wl-clipboard 
+alsa-utils
 ```
+</details>
 
+
+
+
+<details>
+<summary><h3>NVIDIA drivers</h3></summary>
+
+- Installation using yay
+
+```sh
+## Dependencies
+yay -S nvidia-dkms nvidia-utils nvidia-settings libva libva-nvidia-driver 
+```
 </details>
