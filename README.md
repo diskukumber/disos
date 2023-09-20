@@ -10,6 +10,11 @@
 </p>
 
 
+<p>
+    <img src="https://picsum.photos/100/100" >
+    <img src="[https://picsum.photos/100/100](https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/hyprland-logo-light.svg)" >
+</p>
+
 
 <div align="center">
 <img src="https://img.shields.io/github/last-commit/KhairyIbrahim/hyprland-dotfiles?style=for-the-badge&logo=github&color=a6da95&logoColor=D9E0EE&labelColor=302D41"/>
