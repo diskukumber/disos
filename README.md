@@ -1,5 +1,5 @@
 <p align="center">
-  ![Screenshot](/gallery/1.png)">   
+ (/gallery/1.png)">   
 </p>
 
 
