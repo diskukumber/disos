@@ -116,6 +116,23 @@ alsa-utils
 
 
 
+
+
+
+<details>
+<summary><h3>Fonts</h3></summary>
+
+- Installation using yay
+
+```sh
+## Dependencies
+yay -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra ttf-noto-nerd
+```
+</details>
+
+
+
+
 <details>
 <summary><h3>NVIDIA drivers</h3></summary>
 
