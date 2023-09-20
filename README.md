@@ -1,6 +1,9 @@
-![Screenshot](/gallery/archlinux-logo-light.png) 
 
-<img align="left" src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/archlinux-logo-light.png">
+<p align="center">
+  <img width="250" src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/archlinux-logo-light.png">   
+</p>
+
+
 <p>
     <img src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/archlinux-logo-light.png" >
     <img src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/hyprland-logo-light.svg" >
