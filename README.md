@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src=![Screenshot](/gallery/1.png)">   
+  ![Screenshot](/gallery/1.png)">   
 </p>
 
 
