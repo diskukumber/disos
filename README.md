@@ -3,6 +3,9 @@
   <img width="250" src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/archlinux-logo-light.png">   
 </p>
 
+<p align="right">
+  <img width="250" src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/hyprland-logo-light.svg">   
+</p>
 
 <p>
     <img src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/archlinux-logo-light.png" >
