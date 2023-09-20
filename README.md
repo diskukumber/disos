@@ -12,7 +12,7 @@
 
 <p>
     <img src="https://picsum.photos/100/100" >
-    <img src="(https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/hyprland-logo-light.svg)" >
+    <img src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/hyprland-logo-light.svg" >
 </p>
 
 
