@@ -2,6 +2,10 @@
 
 
 
+<p align="center">
+  ![Screenshot](/gallery/archlinux-logo-light.png)
+</p>
+
 
 
 <div align="center">
