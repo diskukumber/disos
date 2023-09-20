@@ -1,3 +1,11 @@
+<p align="center">
+  <img width="250" src=![Screenshot](/gallery/1.png)">   
+</p>
+
+
+
+
+
 <div align="center">
 <img src="https://img.shields.io/github/last-commit/KhairyIbrahim/hyprland-dotfiles?style=for-the-badge&logo=github&color=a6da95&logoColor=D9E0EE&labelColor=302D41"/>
 <img src="https://img.shields.io/github/repo-size/KhairyIbrahim/hyprland-dotfiles?style=for-the-badge&logo=dropbox&color=7dc4e4&logoColor=D9E0EE&labelColor=302D41"/>
