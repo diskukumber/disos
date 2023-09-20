@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
   <img width="250" src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/archlinux-logo-light.png">   
 </p>
 
