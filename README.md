@@ -1,5 +1,5 @@
-<img align="left"> <img width="450" src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/archlinux-logo-light.png">
-<img align="right"> <img width="450" src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/hyprland-logo-light.svg">
+<img align="left"> <img width="650" src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/archlinux-logo-light.png">
+<img align="right"> <img width="650" src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/hyprland-logo-light.svg">
 
 
 <div align="center">
