@@ -1,4 +1,4 @@
-![Screenshot](/gallery/1.png)
+![Screenshot](/gallery/archlinux-logo-light.png)
 
 
 
