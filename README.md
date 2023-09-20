@@ -1,4 +1,4 @@
-![Screenshot](/gallery/archlinux-logo-light.png)
+![Screenshot](/gallery/archlinux-logo-light.png) ![Screenshot](/gallery/hyprland-logo-light.svg)
 
 
 
