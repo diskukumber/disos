@@ -1,14 +1,5 @@
 ![Screenshot](/gallery/archlinux-logo-light.png) 
 
-<p>
-    ![Screenshot](/gallery/archlinux-logo-light.png) 
-    ![Screenshot](/gallery/hyprland-logo-light.svg)
-</p>
-
-<p align="center">
-  <img width="250" src=(/gallery/archlinux-logo-light.png)>
-</p>
-
 
 <p>
     <img src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/archlinux-logo-light.png" >
