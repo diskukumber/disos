@@ -1,6 +1,6 @@
 <img align="left"> <img width="450" src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/archlinux-logo-light.png">
 <img align="right"> <img width="450" src="https://github.com/KhairyIbrahim/hyprland-dotfiles/blob/main/gallery/hyprland-logo-light.svg">
-/gallery/1.png
+
 <img align="right"> <img width="450" src="./gallery/1.png">
 <div align="center">
 <img src="https://img.shields.io/github/last-commit/KhairyIbrahim/hyprland-dotfiles?style=for-the-badge&logo=github&color=a6da95&logoColor=D9E0EE&labelColor=302D41"/>
