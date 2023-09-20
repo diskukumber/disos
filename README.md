@@ -1,6 +1,5 @@
-<div align="center">
 ![Screenshot](/gallery/1.png)
-</div>
+
 
 
 
