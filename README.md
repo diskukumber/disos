@@ -20,9 +20,9 @@ This repository will be updated as development progresses.
   # Details
 
 
-|  # Details | |
+| Details | |
 | :-- | --- |
-linux-headers | for main kernel (script will auto detect from /usr/lib/modules/)
+Distribution | [Arch Linux](https://github.com/archlinux)
 linux-zen-headers | for zen kernel (script will auto detect from /usr/lib/modules/)
 linux-lts-headers | for lts kernel (script will auto detect from /usr/lib/modules/)
 nvidia-dkms | nvidia drivers (script will auto detect from lspci -k | grep -A 2 -E "(VGA|3D)")
