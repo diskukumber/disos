@@ -1,5 +1,5 @@
-<img align="left"> <img width="450" src="./gallery/archlinux-logo-light.png">
-<img align="right"> <img width="450" src="./gallery/hyprland-logo-light.svg">
+<img align="left"> <img width="350" src="./gallery/archlinux-logo-light.png">
+<img align="right"> <img width="350" src="./gallery/hyprland-logo-light.svg">
 
 
 <div align="center">
