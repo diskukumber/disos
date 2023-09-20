@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  ![Screenshot](/gallery/archlinux-logo-light.png)
+  <img width="250" src=![Screenshot](/gallery/archlinux-logo-light.png)>
 </p>
 
 
