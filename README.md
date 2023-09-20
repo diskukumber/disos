@@ -103,9 +103,11 @@ rofi-lbonn-wayland-git
 <details>
 <summary><h3>Dependencies</h3></summary>
 ```sh
+  
 yay -S ffmpegthumbnailer tumbler xorg-xwayland xwaylandvideobridge-cursor-mode-2-git
 qt5-wayland qt5ct qt6-wayland qt6ct bluez bluez-utils blueman cliphist wl-clipboard 
 alsa-utils
+
 ```
 </details>
 
