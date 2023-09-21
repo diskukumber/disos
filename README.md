@@ -17,7 +17,7 @@ Khairy Ibrahim dotfiles for Hyprland, Wayland compositor.
 This repository will be updated as development progresses.
 
 
-
+</details>
 <summary><h4>Playlist</h4></summary>
 
 | youtube |
