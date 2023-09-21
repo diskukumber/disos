@@ -21,7 +21,7 @@ This repository will be updated as development progresses.
 |  | |
 | :-- | --- |
 Distribution | [Arch Linux](https://archlinux.org/)
-pipewire-alsa | for audio
+Compositor | [Hyprland](https://hyprland.org/)
 pipewire-audio | for audio
 pipewire-jack | for audio
 pipewire-pulse | for audio
@@ -37,7 +37,7 @@ brightnessctl | brightness control for laptop
 
 
 * **Distribution** •  [Arch Linux](https://github.com/archlinux)
-* **Window Manager** •  [Hyprland](https://github.com/hyprwm/Hyprland)
+* **Window Manager** •  [Hyprland](https://hyprland.org/)
 * **Terminal Emulator** •  [Kitty](https://github.com/kovidgoyal/kitty)
 * **Applications launcher** •  [Rofi Wayland](https://github.com/lbonn/rofi)
 * **Bar** •  [Waybar](https://github.com/Alexays/Waybar)
