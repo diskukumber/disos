@@ -19,16 +19,20 @@ This repository will be updated as development progresses.
 
   # Details
 
-| Distribution | [Arch Linux](https://github.com/archlinux) |
 | :-- | --- |
-| Compositor | [Hyprland](https://github.com/hyprwm/Hyprland) |
-
-linux-zen-headers | for zen kernel (script will auto detect from /usr/lib/modules/)
-linux-lts-headers | for lts kernel (script will auto detect from /usr/lib/modules/)
-nvidia-dkms | nvidia drivers (script will auto detect from lspci -k | grep -A 2 -E "(VGA|3D)")
-nvidia-utils | nvidia drivers (script will auto detect from lspci -k | grep -A 2 -E "(VGA|3D)")
-| :-- | --- |
-
+pipewire | audio and video server
+pipewire-alsa | for audio
+pipewire-audio | for audio
+pipewire-jack | for audio
+pipewire-pulse | for audio
+gst-plugin-pipewire | for audio
+wireplumber | audio and video server
+networkmanager | network manager
+network-manager-applet | nm tray
+bluez | for bluetooth
+bluez-utils | for bluetooth
+blueman | bt tray
+brightnessctl | brightness control for laptop
 
 
 
