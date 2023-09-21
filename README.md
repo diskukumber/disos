@@ -17,14 +17,17 @@ Khairy Ibrahim dotfiles for Hyprland, Wayland compositor.
 This repository will be updated as development progresses.
 
 
-</details>
-<summary><h4>Playlist</h4></summary>
+<details>
+<summary><h3>Details</h3></summary>
 
-| youtube |
-| --- |
-| [![IMAGE ALT TEXT](https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/yt_playlist.png)](https://www.youtube.com/watch?v=_nyStxAI75s&list=PLt8rU_ebLsc5yEHUVsAQTqokIBMtx3RFY) |
+- Installation using yay
 
+```sh
+## Dependencies
+yay -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra ttf-noto-nerd
+```
 </details>
+
 
   # Details
 |  |  |
