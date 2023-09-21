@@ -28,7 +28,7 @@ Bar | [Waybar](https://github.com/Alexays/Waybar)
 Wallpaper| [swww](https://github.com/Horus645/swww)
 Polkit authentication | [xfce-polkit](https://github.com/ncopa/xfce-polkit)
 Antivirus | [ClamAV](https://www.clamav.net/) • [ClamTk](https://sourceforge.net/projects/clamtk/)
-network-manager-applet | nm tray
+Firewall | [UFW](https://launchpad.net/ufw) • [Gufw](https://github.com/costales/gufw)
 bluez | for bluetooth
 bluez-utils | for bluetooth
 blueman | bt tray
@@ -36,10 +36,7 @@ brightnessctl | brightness control for laptop
 
 
 
-
-
-* **Antivirus** •  [ClamAV](https://www.clamav.net/) • [ClamTk](https://sourceforge.net/projects/clamtk/)
-* **Firewall** •  [UFW](https://archlinux.org/packages/community/any/ufw/) • [Gufw](https://github.com/costales/gufw)
+* **Firewall** •  [UFW](https://launchpad.net/ufw) • [Gufw](https://github.com/costales/gufw)
 * **Terminal text editor** •  [Neovim](https://github.com/neovim/neovim)
 * **text editor** •  [Visual Studio Code](https://github.com/microsoft/vscode)
 * **Terminal File Manager** •  [LF](https://github.com/gokcehan/lf)
