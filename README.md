@@ -20,7 +20,7 @@ This repository will be updated as development progresses.
   # Details
 |  | |
 | :-- | --- |
-Distribution | audio and video server
+Distribution | [Arch Linux](https://github.com/archlinux)
 pipewire-alsa | for audio
 pipewire-audio | for audio
 pipewire-jack | for audio
