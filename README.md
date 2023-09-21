@@ -18,7 +18,7 @@ This repository will be updated as development progresses.
 
 
   # Details
-
+|  | |
 | :-- | --- |
 pipewire | audio and video server
 pipewire-alsa | for audio
