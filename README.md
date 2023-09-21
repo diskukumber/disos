@@ -32,7 +32,7 @@ Wallpaper| [swww](https://github.com/Horus645/swww)
 Polkit authentication | [xfce-polkit](https://github.com/ncopa/xfce-polkit)
 Antivirus | [ClamAV](https://www.clamav.net/) • [ClamTk](https://sourceforge.net/projects/clamtk/)
 Firewall | [UFW](https://launchpad.net/ufw) • [Gufw](https://github.com/costales/gufw)
-Terminal text editor | [Neovim](https://neovim.io/)
+Terminal text editor | [Neovim](https://neovim.io/) • [GNU nano](https://www.nano-editor.org/)
 
 
 </details>
