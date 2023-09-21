@@ -8,13 +8,14 @@
 <img src="https://img.shields.io/github/stars/KhairyIbrahim/hyprland-dotfiles?style=for-the-badge&logo=powerpages&color=cba6f7&logoColor=D9E0EE&labelColor=302D41"/>
 </div>
 
-
-
 # hyprland-dotfiles
 Khairy Ibrahim dotfiles for Hyprland, Wayland compositor.
 
 # still under development
 This repository will be updated as development progresses.
+
+
+
 
 
 <details>
@@ -31,6 +32,8 @@ Wallpaper| [swww](https://github.com/Horus645/swww)
 Polkit authentication | [xfce-polkit](https://github.com/ncopa/xfce-polkit)
 Antivirus | [ClamAV](https://www.clamav.net/) • [ClamTk](https://sourceforge.net/projects/clamtk/)
 Firewall | [UFW](https://launchpad.net/ufw) • [Gufw](https://github.com/costales/gufw)
+Terminal text editor | [Neovim](https://neovim.io/)
+
 
 </details>
 
@@ -44,8 +47,7 @@ brightnessctl | brightness control for laptop
 
 
 
-* **Firewall** •  [UFW](https://launchpad.net/ufw) • [Gufw](https://github.com/costales/gufw)
-* **Terminal text editor** •  [Neovim](https://github.com/neovim/neovim)
+* **Terminal text editor** •  [Neovim](https://neovim.io/)
 * **text editor** •  [Visual Studio Code](https://github.com/microsoft/vscode)
 * **Terminal File Manager** •  [LF](https://github.com/gokcehan/lf)
 * **File Manager** •  [Nemo](https://github.com/linuxmint/nemo)
