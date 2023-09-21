@@ -26,8 +26,8 @@ Terminal Emulator | [Kitty](https://sw.kovidgoyal.net/kitty/)
 Applications launcher | [Rofi](https://github.com/lbonn/rofi)
 Bar | [Waybar](https://github.com/Alexays/Waybar)
 Wallpaper| [swww](https://github.com/Horus645/swww)
-wireplumber | audio and video server
-networkmanager | network manager
+Polkit authentication | [xfce-polkit](https://github.com/ncopa/xfce-polkit)
+Antivirus | [ClamAV](https://www.clamav.net/) • [ClamTk](https://sourceforge.net/projects/clamtk/)
 network-manager-applet | nm tray
 bluez | for bluetooth
 bluez-utils | for bluetooth
@@ -36,15 +36,9 @@ brightnessctl | brightness control for laptop
 
 
 
-* **Distribution** •  [Arch Linux](https://github.com/archlinux)
-* **Window Manager** •  [Hyprland](https://hyprland.org/)
-* **Terminal Emulator** •  [Kitty](https://sw.kovidgoyal.net/kitty/)
-* **Applications launcher** •  [Rofi Wayland](https://github.com/lbonn/rofi)
-* **Bar** •  [Waybar](https://github.com/Alexays/Waybar)
-* **Live Wallpapers** •  [swww](https://github.com/Horus645/swww)
-* **Static Wallpapers** •  [swaybg](https://github.com/swaywm/swaybg)
-* **Polkit authentication** •  [xfce-polkit](https://github.com/ncopa/xfce-polkit)
-* **Antivirus** •  [ClamAV](https://github.com/Cisco-Talos/clamav) • [ClamTk](https://github.com/dave-theunsub/clamtk)
+
+
+* **Antivirus** •  [ClamAV](https://www.clamav.net/) • [ClamTk](https://sourceforge.net/projects/clamtk/)
 * **Firewall** •  [UFW](https://archlinux.org/packages/community/any/ufw/) • [Gufw](https://github.com/costales/gufw)
 * **Terminal text editor** •  [Neovim](https://github.com/neovim/neovim)
 * **text editor** •  [Visual Studio Code](https://github.com/microsoft/vscode)
