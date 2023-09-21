@@ -20,7 +20,7 @@ This repository will be updated as development progresses.
   # Details
 |  | |
 | :-- | --- |
-* Distribution | audio and video server
+Distribution | audio and video server
 pipewire-alsa | for audio
 pipewire-audio | for audio
 pipewire-jack | for audio
