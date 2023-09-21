@@ -10,27 +10,10 @@
 
 
   ```json
-  {
-    "full_name": "Audrey Roy Greenfeld",
-    "email": "audreyr@gmail.com",
-    "project_name": "Complexity",
-    "repo_name": "complexity",
-    "project_short_description": "Refreshingly simple static site generator.",
-    "release_date": "2013-07-10",
-    "year": "2013",
-    "version": "0.1.1",
-    "linting": ["ruff", "flake8", "none"],
-    "__prompts__": {
-      "full_name": "Provide your [bold yellow]full name[/]",
-      "email": "Provide your [bold yellow]email[/]",
-      "linting": {
-        "__prompt__": "Which [bold yellow]linting tool[/] do you want to use?",
-        "ruff": "Ruff",
-        "flake8": "Flake8",
-        "none": "No linting tool"
-      }
-    }
-  }
+
+yay -S hyprland xdg-desktop-portal-hyprland waybar swaync swww
+rofi-lbonn-wayland-git
+
   ```
 
 
