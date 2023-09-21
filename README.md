@@ -25,7 +25,7 @@ Compositor | [Hyprland](https://hyprland.org/)
 Terminal Emulator | [Kitty](https://sw.kovidgoyal.net/kitty/)
 Applications launcher | [Rofi](https://github.com/lbonn/rofi)
 Bar | [Waybar](https://github.com/Alexays/Waybar)
-gst-plugin-pipewire | for audio
+Wallpaper| [swww](https://github.com/Horus645/swww)
 wireplumber | audio and video server
 networkmanager | network manager
 network-manager-applet | nm tray
@@ -41,7 +41,7 @@ brightnessctl | brightness control for laptop
 * **Terminal Emulator** •  [Kitty](https://sw.kovidgoyal.net/kitty/)
 * **Applications launcher** •  [Rofi Wayland](https://github.com/lbonn/rofi)
 * **Bar** •  [Waybar](https://github.com/Alexays/Waybar)
-* **Live Wallpapers** •  [mpvpaper](https://github.com/GhostNaN/mpvpaper)
+* **Live Wallpapers** •  [swww](https://github.com/Horus645/swww)
 * **Static Wallpapers** •  [swaybg](https://github.com/swaywm/swaybg)
 * **Polkit authentication** •  [xfce-polkit](https://github.com/ncopa/xfce-polkit)
 * **Antivirus** •  [ClamAV](https://github.com/Cisco-Talos/clamav) • [ClamTk](https://github.com/dave-theunsub/clamtk)
