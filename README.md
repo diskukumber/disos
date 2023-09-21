@@ -18,7 +18,7 @@ This repository will be updated as development progresses.
 
 
   # Details
-|  |    |
+|  |  |
 | :-- | --- |
 Distribution | [Arch Linux](https://archlinux.org/)
 Compositor | [Hyprland](https://hyprland.org/)
