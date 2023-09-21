@@ -9,13 +9,6 @@
 </div>
 
 
-  ```json
-
-yay -S hyprland xdg-desktop-portal-hyprland waybar swaync swww
-rofi-lbonn-wayland-git
-
-  ```
-
 
 # hyprland-dotfiles
 Khairy Ibrahim dotfiles for Hyprland, Wayland compositor.
