@@ -20,7 +20,7 @@ This repository will be updated as development progresses.
   # Details
 |  | |
 | :-- | --- |
-Distribution | [Arch Linux](https://archlinux.org/) |
+| Distribution | [Arch Linux](https://archlinux.org/) |
 pipewire-alsa | for audio
 pipewire-audio | for audio
 pipewire-jack | for audio
