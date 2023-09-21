@@ -22,7 +22,7 @@ This repository will be updated as development progresses.
 | :-- | --- |
 Distribution | [Arch Linux](https://archlinux.org/)
 Compositor | [Hyprland](https://hyprland.org/)
-pipewire-audio | for audio
+Terminal Emulator | [Kitty](https://sw.kovidgoyal.net/kitty/)
 pipewire-jack | for audio
 pipewire-pulse | for audio
 gst-plugin-pipewire | for audio
@@ -38,7 +38,7 @@ brightnessctl | brightness control for laptop
 
 * **Distribution** •  [Arch Linux](https://github.com/archlinux)
 * **Window Manager** •  [Hyprland](https://hyprland.org/)
-* **Terminal Emulator** •  [Kitty](https://github.com/kovidgoyal/kitty)
+* **Terminal Emulator** •  [Kitty](https://sw.kovidgoyal.net/kitty/)
 * **Applications launcher** •  [Rofi Wayland](https://github.com/lbonn/rofi)
 * **Bar** •  [Waybar](https://github.com/Alexays/Waybar)
 * **Live Wallpapers** •  [mpvpaper](https://github.com/GhostNaN/mpvpaper)
