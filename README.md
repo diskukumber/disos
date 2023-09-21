@@ -23,7 +23,7 @@ This repository will be updated as development progresses.
 Distribution | [Arch Linux](https://archlinux.org/)
 Compositor | [Hyprland](https://hyprland.org/)
 Terminal Emulator | [Kitty](https://sw.kovidgoyal.net/kitty/)
-Applications launcher | [Rofi Wayland](https://github.com/lbonn/rofi)
+Applications launcher | [Rofi](https://github.com/lbonn/rofi)
 pipewire-pulse | for audio
 gst-plugin-pipewire | for audio
 wireplumber | audio and video server
