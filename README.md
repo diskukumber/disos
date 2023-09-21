@@ -20,16 +20,6 @@ This repository will be updated as development progresses.
 <details>
 <summary><h8>Details</h8></summary>
 
-- Installation using yay
-
-```sh
-## Dependencies
-yay -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra ttf-noto-nerd
-```
-</details>
-
-
-  # Details
 |  |  |
 | :-- | --- |
 Distribution | [Arch Linux](https://archlinux.org/)
@@ -41,6 +31,12 @@ Wallpaper| [swww](https://github.com/Horus645/swww)
 Polkit authentication | [xfce-polkit](https://github.com/ncopa/xfce-polkit)
 Antivirus | [ClamAV](https://www.clamav.net/) • [ClamTk](https://sourceforge.net/projects/clamtk/)
 Firewall | [UFW](https://launchpad.net/ufw) • [Gufw](https://github.com/costales/gufw)
+
+</details>
+
+
+  # Details
+
 bluez | for bluetooth
 bluez-utils | for bluetooth
 blueman | bt tray
