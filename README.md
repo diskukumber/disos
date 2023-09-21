@@ -34,17 +34,16 @@ Antivirus | [ClamAV](https://www.clamav.net/) • [ClamTk](https://sourceforge.n
 Firewall | [UFW](https://launchpad.net/ufw) • [Gufw](https://github.com/costales/gufw)
 Terminal text editor | [Neovim](https://neovim.io/) • [GNU nano](https://www.nano-editor.org/)
 text editor | [Visual Studio Code](https://code.visualstudio.com/)
+Terminal File Manager | [LF](https://github.com/gokcehan/lf)
+File Manager | [Nemo](https://github.com/linuxmint/nemo)
+Interactive Shell | [fish](https://fishshell.com/)
+System Shell | [GNU Bash](https://www.gnu.org/software/bash/)
+File Manager | [Nemo](https://github.com/linuxmint/nemo)
 
 </details>
 
 
 
-* **text editor** •  [Visual Studio Code](https://github.com/microsoft/vscode)
-* **Terminal File Manager** •  [LF](https://github.com/gokcehan/lf)
-* **File Manager** •  [Nemo](https://github.com/linuxmint/nemo)
-* **Interactive Shell** •  [fish](https://github.com/fish-shell/fish-shell)
-* **System Shell** •  [Bash](https://archlinux.org/packages/core/x86_64/bash/)
-* **Logout Menu** •  [wlogout](https://github.com/ArtsyMacaw/wlogout)
 
 * **Themes** •  [lxappearance](https://github.com/lxde/lxappearance) • [qt6ct](https://github.com/trialuser02/qt6ct) • [nwg look](https://github.com/nwg-piotr/nwg-look) • [Kvantum](https://github.com/tsujan/Kvantum)
 
