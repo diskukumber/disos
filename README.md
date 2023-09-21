@@ -19,7 +19,7 @@ This repository will be updated as development progresses.
 
 
 <details>
-<summary><h8>Details</h8></summary>
+<summary><h1>Details</h1></summary>
 
 |  |  |
 | :-- | --- |
