@@ -18,7 +18,7 @@ This repository will be updated as development progresses.
 
 
 <details>
-<summary><h3>Details</h3></summary>
+<summary><h8>Details</h8></summary>
 
 - Installation using yay
 
