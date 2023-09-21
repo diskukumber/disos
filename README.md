@@ -17,6 +17,15 @@ Khairy Ibrahim dotfiles for Hyprland, Wayland compositor.
 This repository will be updated as development progresses.
 
 
+
+<summary><h4>Playlist</h4></summary>
+
+| youtube |
+| --- |
+| [![IMAGE ALT TEXT](https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/yt_playlist.png)](https://www.youtube.com/watch?v=_nyStxAI75s&list=PLt8rU_ebLsc5yEHUVsAQTqokIBMtx3RFY) |
+
+</details>
+
   # Details
 |  |  |
 | :-- | --- |
