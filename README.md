@@ -39,6 +39,7 @@ File Manager | [Nemo](https://github.com/linuxmint/nemo)
 Interactive Shell | [fish](https://fishshell.com/)
 System Shell | [GNU Bash](https://www.gnu.org/software/bash/)
 File Manager | [Nemo](https://github.com/linuxmint/nemo)
+Login Manager | [SDDM](https://github.com/sddm/sddm)
 
 </details>
 
