@@ -40,6 +40,11 @@ Interactive Shell | [fish](https://fishshell.com/)
 System Shell | [GNU Bash](https://www.gnu.org/software/bash/)
 File Manager | [Nemo](https://github.com/linuxmint/nemo)
 Login Manager | [SDDM](https://github.com/sddm/sddm)
+Screenshot | [grim](https://github.com/emersion/grim) • [slurp](https://github.com/emersion/slurp) • [swappy](https://github.com/jtheoof/swappy)
+
+
+
+
 
 </details>
 
@@ -122,8 +127,8 @@ rofi-lbonn-wayland-git
 
 ```sh
 yay -S ffmpegthumbnailer tumbler xorg-xwayland xwaylandvideobridge-cursor-mode-2-git
-qt5-wayland qt5ct qt6-wayland qt6ct bluez bluez-utils blueman cliphist wl-clipboard 
-alsa-utils
+qt5-wayland qt5ct qt6-wayland qt6ct gtk4 bluez bluez-utils blueman cliphist wl-clipboard 
+pamixer brightnessctl playerctl grim slurp swappy
 ```
 </details>
 
