@@ -38,7 +38,7 @@ Terminal File Manager | [LF](https://github.com/gokcehan/lf)
 File Manager | [Nemo](https://github.com/linuxmint/nemo)
 Interactive Shell | [fish](https://fishshell.com/)
 System Shell | [GNU Bash](https://www.gnu.org/software/bash/)
-File Manager | [Nemo](https://github.com/linuxmint/nemo)
+Network Manager | [NetworkManager](https://networkmanager.dev/) • [NM-Applet/connection editor](https://gitlab.gnome.org/GNOME/network-manager-applet)
 Login Manager | [SDDM](https://github.com/sddm/sddm)
 Screenshot | [grim](https://github.com/emersion/grim) • [slurp](https://github.com/emersion/slurp) • [swappy](https://github.com/jtheoof/swappy)
 
