@@ -38,10 +38,10 @@ Terminal File Manager | [LF](https://github.com/gokcehan/lf)
 File Manager | [Nemo](https://github.com/linuxmint/nemo)
 Interactive Shell | [fish](https://fishshell.com/)
 System Shell | [GNU Bash](https://www.gnu.org/software/bash/)
-Network Manager | [NetworkManager](https://networkmanager.dev/) • [NM-Applet/connection editor](https://gitlab.gnome.org/GNOME/network-manager-applet)
+Network management | [NetworkManager](https://networkmanager.dev/) • [NM-Applet/connection editor](https://gitlab.gnome.org/GNOME/network-manager-applet)
 Login Manager | [SDDM](https://github.com/sddm/sddm)
 Screenshot | [grim](https://github.com/emersion/grim) • [slurp](https://github.com/emersion/slurp) • [swappy](https://github.com/jtheoof/swappy)
-
+Notification Daemon | [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter)
 
 
 
@@ -54,9 +54,7 @@ Screenshot | [grim](https://github.com/emersion/grim) • [slurp](https://github
 * **Themes** •  [lxappearance](https://github.com/lxde/lxappearance) • [qt6ct](https://github.com/trialuser02/qt6ct) • [nwg look](https://github.com/nwg-piotr/nwg-look) • [Kvantum](https://github.com/tsujan/Kvantum)
 
 * **Screen locker** •  [swaylock effects](https://github.com/mortie/swaylock-effects)
-* **Notification Daemon** •  [Dunst](https://github.com/dunst-project/dunst)
 * **Audio Control** •  [pavucontrol](https://github.com/pulseaudio/pavucontrol) • [pasystray](https://github.com/christophgysin/pasystray) • [QjackCtl](https://github.com/rncbc/qjackctl) • [qpwgraph](https://github.com/rncbc/qpwgraph)
-* **Network management** •  [nm-applet](https://archlinux.org/packages/extra/x86_64/network-manager-applet/) • [nm-connection-editor](https://archlinux.org/packages/extra/x86_64/nm-connection-editor/)
 * **Bluetooth** •  [Blueman](https://github.com/blueman-project/blueman)
 
 * **Laptops**
