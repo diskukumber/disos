@@ -126,7 +126,7 @@ rofi-lbonn-wayland-git
 ```sh
 yay -S ffmpegthumbnailer tumbler xorg-xwayland xwaylandvideobridge-cursor-mode-2-git
 qt5-wayland qt5ct qt6-wayland qt6ct gtk4 bluez bluez-utils blueman cliphist wl-clipboard 
-pamixer brightnessctl playerctl grim slurp swappy
+pamixer brightnessctl playerctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
 ```
 </details>
 
