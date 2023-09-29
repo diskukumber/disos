@@ -41,7 +41,7 @@ System Shell | [GNU Bash](https://www.gnu.org/software/bash/)
 Network management | [NetworkManager](https://networkmanager.dev/) • [NM-Applet/connection editor](https://gitlab.gnome.org/GNOME/network-manager-applet)
 Login Manager | [SDDM](https://github.com/sddm/sddm)
 Screenshot | [grim](https://github.com/emersion/grim) • [slurp](https://github.com/emersion/slurp) • [swappy](https://github.com/jtheoof/swappy)
-Notification Daemon | [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter)
+Notification Daemon | [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) • [SwayOSD](https://github.com/ErikReider/SwayOSD)
 
 
 
