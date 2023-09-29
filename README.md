@@ -43,7 +43,7 @@ Modem management | [ModemManager](https://www.freedesktop.org/wiki/Software/Mode
 Login Manager | [SDDM](https://github.com/sddm/sddm)
 Screenshot | [grim](https://github.com/emersion/grim) • [slurp](https://github.com/emersion/slurp) • [swappy](https://github.com/jtheoof/swappy)
 Notification Daemon | [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) • [SwayOSD](https://github.com/ErikReider/SwayOSD)
-
+Input Tools | [gestures](https://gitlab.com/cunidev/gestures)
 
 
 
