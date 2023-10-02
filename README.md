@@ -44,6 +44,7 @@ Login Manager | [SDDM](https://github.com/sddm/sddm)
 Screenshot | [grim](https://github.com/emersion/grim) • [slurp](https://github.com/emersion/slurp) • [swappy](https://github.com/jtheoof/swappy)
 Notification Daemon | [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) • [SwayOSD](https://github.com/ErikReider/SwayOSD)
 Input Tools | [gestures](https://gitlab.com/cunidev/gestures)
+Screen locker | [gtklock](https://github.com/jovanlanik/gtklock) • [userinfo-module](https://github.com/jovanlanik/gtklock-userinfo-module) • [Mugshot](https://github.com/bluesabre/mugshot) • [powerbar-module](https://github.com/jovanlanik/gtklock-powerbar-module) • [playerctl-module](https://github.com/jovanlanik/gtklock-playerctl-module)
 
 
 
@@ -54,7 +55,7 @@ Input Tools | [gestures](https://gitlab.com/cunidev/gestures)
 
 * **Themes** •  [lxappearance](https://github.com/lxde/lxappearance) • [qt6ct](https://github.com/trialuser02/qt6ct) • [nwg look](https://github.com/nwg-piotr/nwg-look) • [Kvantum](https://github.com/tsujan/Kvantum)
 
-* **Screen locker** •  [swaylock effects](https://github.com/mortie/swaylock-effects)
+
 * **Audio Control** •  [pavucontrol](https://github.com/pulseaudio/pavucontrol) • [pasystray](https://github.com/christophgysin/pasystray) • [QjackCtl](https://github.com/rncbc/qjackctl) • [qpwgraph](https://github.com/rncbc/qpwgraph)
 * **Bluetooth** •  [Blueman](https://github.com/blueman-project/blueman)
 
