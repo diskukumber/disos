@@ -45,7 +45,7 @@ Screenshot | [grim](https://github.com/emersion/grim) • [slurp](https://github
 Notification Daemon | [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) • [SwayOSD](https://github.com/ErikReider/SwayOSD)
 Input Tools | [gestures](https://gitlab.com/cunidev/gestures)
 Screen locker | [gtklock](https://github.com/jovanlanik/gtklock) • [userinfo-module](https://github.com/jovanlanik/gtklock-userinfo-module) • [Mugshot](https://github.com/bluesabre/mugshot) • [powerbar-module](https://github.com/jovanlanik/gtklock-powerbar-module) • [playerctl-module](https://github.com/jovanlanik/gtklock-playerctl-module)
-
+Clipboard Manager | [CopyQ](https://hluk.github.io/CopyQ/)
 
 
 </details>
