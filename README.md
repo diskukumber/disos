@@ -109,7 +109,7 @@ Theme | [Catppuccin](https://catppuccin-website.vercel.app/)
 ```sh
 ## Hyprland Stuff
 yay -S hyprland-nvidia xdg-desktop-portal-hyprland waybar swaync swww
-rofi-lbonn-wayland-git 
+rofi-lbonn-wayland-git xfce-polkit swayosd-git swayidle gestures gammastep
 ```
 </details>
 
@@ -126,7 +126,7 @@ rofi-lbonn-wayland-git
 
 ```sh
 yay -S ffmpegthumbnailer tumbler xorg-xwayland xwaylandvideobridge-cursor-mode-2-git
-qt5-wayland qt5ct qt6-wayland qt6ct gtk4 bluez bluez-utils blueman cliphist wl-clipboard 
+qt5-wayland qt6-wayland gtk4 bluez bluez-utils blueman copyq wireplumber
 pamixer brightnessctl playerctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
 ```
 </details>
@@ -141,7 +141,7 @@ pamixer brightnessctl playerctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphot
 
 ```sh
 ## Dependencies
-yay -S nwg-look kvantum kvantum-theme-catppuccin-git papirus-icon-theme papirus-folders-catppuccin-git
+yay -S nwg-look kvantum qt5ct kvantum-theme-catppuccin-git papirus-icon-theme papirus-folders-catppuccin-git
 catppuccin-gtk-theme-latte catppuccin-gtk-theme-frappe catppuccin-gtk-theme-macchiato catppuccin-gtk-theme-mocha
 ```
 </details>
