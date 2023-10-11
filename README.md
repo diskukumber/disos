@@ -108,7 +108,7 @@ Theme | [Catppuccin](https://catppuccin-website.vercel.app/)
 
 ```sh
 ## Hyprland Stuff
-yay -S hyprland xdg-desktop-portal-hyprland waybar swaync swww
+yay -S hyprland-nvidia xdg-desktop-portal-hyprland waybar swaync swww
 rofi-lbonn-wayland-git 
 ```
 </details>
@@ -132,6 +132,19 @@ pamixer brightnessctl playerctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphot
 </details>
 
 
+
+
+<details>
+<summary><h3>themes</h3></summary>
+
+- Installation using yay
+
+```sh
+## Dependencies
+yay -S nwg-look kvantum kvantum-theme-catppuccin-git papirus-icon-theme papirus-folders-catppuccin-git
+catppuccin-gtk-theme-latte catppuccin-gtk-theme-frappe catppuccin-gtk-theme-macchiato catppuccin-gtk-theme-mocha
+```
+</details>
 
 
 
