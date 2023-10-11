@@ -56,7 +56,7 @@ Theme | [Catppuccin](https://catppuccin-website.vercel.app/)
 
 
 * **Audio Control** •  [pavucontrol](https://github.com/pulseaudio/pavucontrol) • [pasystray](https://github.com/christophgysin/pasystray) • [QjackCtl](https://github.com/rncbc/qjackctl) • [qpwgraph](https://github.com/rncbc/qpwgraph)
-* **Bluetooth** •  [Blueman](https://github.com/blueman-project/blueman)
+
 
 * **Laptops**
 * **Power Management** •  [TLP](https://github.com/linrunner/TLP) • [TLPUI](https://github.com/d4nj1/TLPUI) • [auto cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) • [Slimbook Battery](https://github.com/Slimbook-Team/slimbookbattery) • [PowerTOP](https://github.com/fenrus75/powertop)
