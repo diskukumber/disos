@@ -50,15 +50,10 @@ Clipboard Manager | [CopyQ](https://hluk.github.io/CopyQ/)
 Theme Manager | [nwg look](https://github.com/nwg-piotr/nwg-look) • [Kvantum](https://github.com/tsujan/Kvantum) • [qt5ct](https://github.com/desktop-app/qt5ct)
 Theme | [Catppuccin](https://catppuccin-website.vercel.app/)
 Audio Control | [pavucontrol](https://github.com/pulseaudio/pavucontrol) • [pasystray](https://github.com/christophgysin/pasystray) • [QjackCtl](https://github.com/rncbc/qjackctl)
+Power Management | [TLP](https://github.com/linrunner/TLP) • [TLPUI](https://github.com/d4nj1/TLPUI) • [auto cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) • [Slimbook Battery](https://github.com/Slimbook-Team/slimbookbattery) • [PowerTOP](https://github.com/fenrus75/powertop)
 
 </details>
 
-
-* **Laptops**
-* **Power Management** •  [TLP](https://github.com/linrunner/TLP) • [TLPUI](https://github.com/d4nj1/TLPUI) • [auto cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) • [Slimbook Battery](https://github.com/Slimbook-Team/slimbookbattery) • [PowerTOP](https://github.com/fenrus75/powertop)
-* **GPU switching** •  [Optimus Manager](https://github.com/Askannz/optimus-manager) • [Optimus Manager Qt](https://github.com/Shatur/optimus-manager-qt)
-
-  
 
   # Features
 - Hyprland gestures, - 3 Finger Swipe Switch Workspace.
