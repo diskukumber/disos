@@ -101,6 +101,8 @@ Power Management | [TLP](https://github.com/linrunner/TLP) • [TLPUI](https://g
 ## Hyprland Stuff
 yay -S hyprland-nvidia xdg-desktop-portal-hyprland waybar swaync swww
 rofi-lbonn-wayland-git xfce-polkit swayosd-git swayidle gestures gammastep
+gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module
+
 ```
 </details>
 
@@ -117,10 +119,26 @@ rofi-lbonn-wayland-git xfce-polkit swayosd-git swayidle gestures gammastep
 
 ```sh
 yay -S ffmpegthumbnailer tumbler xorg-xwayland xwaylandvideobridge-cursor-mode-2-git
-qt5-wayland qt6-wayland gtk4 bluez bluez-utils blueman copyq wireplumber
+qt5-wayland qt6-wayland gtk4 bluez bluez-utils blueman copyq wireplumber mugshot
 pamixer brightnessctl playerctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
 ```
 </details>
+
+
+
+
+<details>
+<summary><h3>Bluetooth And Network</h3></summary>
+
+
+- Installation using yay
+
+
+```sh
+yay -S bluez bluez-utils blueman networkmanager network-manager-applet
+```
+</details>
+
 
 
 
