@@ -49,13 +49,9 @@ Screen locker | [gtklock](https://github.com/jovanlanik/gtklock) • [userinfo-m
 Clipboard Manager | [CopyQ](https://hluk.github.io/CopyQ/)
 Theme Manager | [nwg look](https://github.com/nwg-piotr/nwg-look) • [Kvantum](https://github.com/tsujan/Kvantum) • [qt5ct](https://github.com/desktop-app/qt5ct)
 Theme | [Catppuccin](https://catppuccin-website.vercel.app/)
-
+Audio Control | [pavucontrol](https://github.com/pulseaudio/pavucontrol) • [pasystray](https://github.com/christophgysin/pasystray) • [QjackCtl](https://github.com/rncbc/qjackctl)
 
 </details>
-
-
-
-* **Audio Control** •  [pavucontrol](https://github.com/pulseaudio/pavucontrol) • [pasystray](https://github.com/christophgysin/pasystray) • [QjackCtl](https://github.com/rncbc/qjackctl) • [qpwgraph](https://github.com/rncbc/qpwgraph)
 
 
 * **Laptops**
