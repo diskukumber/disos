@@ -119,7 +119,7 @@ gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module
 
 ```sh
 yay -S ffmpegthumbnailer tumbler xorg-xwayland xwaylandvideobridge-cursor-mode-2-git
-qt5-wayland qt6-wayland gtk4 bluez bluez-utils blueman copyq wireplumber mugshot
+qt5-wayland qt6-wayland gtk4 bluez bluez-utils blueman copyq wireplumber mugshot lsb-release
 pamixer brightnessctl playerctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
 ```
 </details>
