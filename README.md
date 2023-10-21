@@ -43,7 +43,7 @@ Network management | [NetworkManager](https://networkmanager.dev/) • [NM-Apple
 Modem management | [ModemManager](https://www.freedesktop.org/wiki/Software/ModemManager/) • [Modem Manager GUI](https://sourceforge.net/projects/modem-manager-gui/)
 Bluetooth | [BlueZ](http://www.bluez.org/) • [Blueman](https://github.com/blueman-project/blueman)
 Login Manager | [SDDM](https://github.com/sddm/sddm)
-Screenshot | [grim](https://github.com/emersion/grim) • [slurp](https://github.com/emersion/slurp) • [swappy](https://github.com/jtheoof/swappy)
+Screen Sharing | [grim](https://github.com/emersion/grim) • [slurp](https://github.com/emersion/slurp) • [swappy](https://github.com/jtheoof/swappy) • [OBS Studio](https://obsproject.com/)
 Notification Daemon | [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) • [SwayOSD](https://github.com/ErikReider/SwayOSD)
 Input Tools | [gestures](https://gitlab.com/cunidev/gestures)
 Screen locker | [gtklock](https://github.com/jovanlanik/gtklock) • [userinfo-module](https://github.com/jovanlanik/gtklock-userinfo-module) • [Mugshot](https://github.com/bluesabre/mugshot) • [powerbar-module](https://github.com/jovanlanik/gtklock-powerbar-module) • [playerctl-module](https://github.com/jovanlanik/gtklock-playerctl-module)
