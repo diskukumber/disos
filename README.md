@@ -36,6 +36,7 @@ Terminal text editor | [Neovim](https://neovim.io/) • [GNU nano](https://www.n
 text editor | [VSCodium](https://vscodium.com/)
 Terminal File Manager | [LF](https://github.com/gokcehan/lf)
 File Manager | [Nemo](https://github.com/linuxmint/nemo)
+File Archiver Utility | [PeaZip](https://peazip.github.io/)
 Interactive Shell | [fish](https://fishshell.com/)
 System Shell | [GNU Bash](https://www.gnu.org/software/bash/)
 Network management | [NetworkManager](https://networkmanager.dev/) • [NM-Applet/connection-editor](https://gitlab.gnome.org/GNOME/network-manager-applet)
