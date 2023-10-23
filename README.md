@@ -97,10 +97,8 @@ Power Management | [TLP](https://github.com/linrunner/TLP) • [TLPUI](https://g
 <details>
 <summary><h3>Hyprland Stuff</h3></summary>
 
-- Installation using yay
 
 ```sh
-## Hyprland Stuff
 yay -S hyprland-nvidia xdg-desktop-portal-hyprland waybar swaync swww waypaper-git
 rofi-lbonn-wayland-git xfce-polkit swayosd-git swayidle gestures gammastep mugshot
 gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module copyq
@@ -114,9 +112,6 @@ gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module
 
 <details>
 <summary><h3>Dependencies</h3></summary>
-
-
-- Installation using yay
 
 
 ```sh
@@ -135,9 +130,6 @@ brightnessctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
 <summary><h3>Bluetooth And Network</h3></summary>
 
 
-- Installation using yay
-
-
 ```sh
 yay -S bluez bluez-utils blueman networkmanager network-manager-applet
 ```
@@ -150,10 +142,8 @@ yay -S bluez bluez-utils blueman networkmanager network-manager-applet
 <details>
 <summary><h3>themes</h3></summary>
 
-- Installation using yay
 
 ```sh
-## Dependencies
 yay -S nwg-look-bin kvantum qt5ct qt6ct kvantum-theme-catppuccin-git
 papirus-icon-theme papirus-folders-catppuccin-git material-cursors-git sound-theme-smooth 
 catppuccin-gtk-theme-latte catppuccin-gtk-theme-frappe catppuccin-gtk-theme-macchiato catppuccin-gtk-theme-mocha
@@ -167,10 +157,8 @@ catppuccin-gtk-theme-latte catppuccin-gtk-theme-frappe catppuccin-gtk-theme-macc
 <details>
 <summary><h3>Fonts</h3></summary>
 
-- Installation using yay
 
 ```sh
-## Dependencies
 yay -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra ttf-noto-nerd
 ```
 </details>
@@ -181,10 +169,7 @@ yay -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra ttf-noto-nerd
 <details>
 <summary><h3>NVIDIA drivers</h3></summary>
 
-- Installation using yay
-
 ```sh
-## Dependencies
 yay -S nvidia-dkms nvidia-utils nvidia-settings libva libva-nvidia-driver 
 ```
 </details>
