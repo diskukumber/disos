@@ -101,9 +101,9 @@ Power Management | [TLP](https://github.com/linrunner/TLP) • [TLPUI](https://g
 
 ```sh
 ## Hyprland Stuff
-yay -S hyprland-nvidia xdg-desktop-portal-hyprland waybar swaync swww
-rofi-lbonn-wayland-git xfce-polkit swayosd-git swayidle gestures gammastep
-gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module
+yay -S hyprland-nvidia xdg-desktop-portal-hyprland waybar swaync swww waypaper-git
+rofi-lbonn-wayland-git xfce-polkit swayosd-git swayidle gestures gammastep mugshot
+gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module copyq
 
 ```
 </details>
@@ -120,9 +120,11 @@ gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module
 
 
 ```sh
-yay -S ffmpegthumbnailer tumbler xorg-xwayland xwaylandvideobridge-cursor-mode-2-git
-qt5-wayland qt6-wayland gtk4 bluez bluez-utils blueman copyq wireplumber mugshot lsb-release
-pamixer brightnessctl playerctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
+yay -S xorg-xwayland xwaylandvideobridge-cursor-mode-2-git ffmpegthumbnailer tumbler
+qt5-wayland qt6-wayland gtk3 gtk4 glew-wayland glfw-wayland
+pamixer playerctl wireplumber pavucontrol qjackctl pasystray-wayland
+brightnessctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
+
 ```
 </details>
 
@@ -152,7 +154,8 @@ yay -S bluez bluez-utils blueman networkmanager network-manager-applet
 
 ```sh
 ## Dependencies
-yay -S nwg-look-bin kvantum qt5ct kvantum-theme-catppuccin-git papirus-icon-theme papirus-folders-catppuccin-git
+yay -S nwg-look-bin kvantum qt5ct qt6ct kvantum-theme-catppuccin-git
+papirus-icon-theme papirus-folders-catppuccin-git material-cursors-git sound-theme-smooth 
 catppuccin-gtk-theme-latte catppuccin-gtk-theme-frappe catppuccin-gtk-theme-macchiato catppuccin-gtk-theme-mocha
 ```
 </details>
