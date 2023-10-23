@@ -53,29 +53,21 @@ This repository will be updated as development progresses.
 - wlr Modules working in config files but doesn't show up on waybar.
 
 
-## INSTALLATION
+## 
 <div align="left">
 
 <details>
-<summary><h3>Hyprland Stuff</h3></summary>
+<summary><h3>INSTALLATION</h3></summary>
 
-
+# Hyprland Stuff
 ```sh
 yay -S hyprland-nvidia xdg-desktop-portal-hyprland waybar swaync swww waypaper-git
 rofi-lbonn-wayland-git xfce-polkit swayosd-git swayidle gestures gammastep mugshot
 gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module copyq
 
 ```
-</details>
 
-
-
-
-
-<details>
-<summary><h3>Dependencies</h3></summary>
-
-
+# Dependencies
 ```sh
 yay -S xorg-xwayland xwaylandvideobridge-cursor-mode-2-git ffmpegthumbnailer tumbler
 qt5-wayland qt6-wayland gtk3 gtk4 glew-wayland glfw-wayland
@@ -83,6 +75,20 @@ pamixer playerctl wireplumber pavucontrol qjackctl pasystray-wayland
 brightnessctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
 
 ```
+
+
+
+</details>
+
+
+
+
+
+<details>
+<summary><h3></h3></summary>
+
+
+
 </details>
 
 
