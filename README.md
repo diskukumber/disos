@@ -18,44 +18,6 @@ This repository will be updated as development progresses.
 
 
 
-<details>
-<summary><h1>Details</h1></summary>
-
-|  |  |
-| :-- | --- |
-Distribution | [Arch Linux](https://archlinux.org/)
-Compositor | [Hyprland](https://hyprland.org/)
-Terminal Emulator | [Kitty](https://sw.kovidgoyal.net/kitty/)
-Applications launcher | [Rofi](https://github.com/lbonn/rofi)
-Bar | [Waybar](https://github.com/Alexays/Waybar)
-Wallpaper| [swww](https://github.com/Horus645/swww) • [Waypaper](https://github.com/anufrievroman/waypaper)
-authentication agent | [xfce-polkit](https://github.com/ncopa/xfce-polkit)
-Antivirus | [ClamAV](https://www.clamav.net/) • [ClamTk](https://sourceforge.net/projects/clamtk/)
-Firewall | [OpenSnitch](https://github.com/evilsocket/opensnitch) • [EtherApe](https://etherape.sourceforge.io/)
-Terminal text editor | [Neovim](https://neovim.io/) • [GNU nano](https://www.nano-editor.org/)
-text editor | [VSCodium](https://vscodium.com/)
-Terminal File Manager | [LF](https://github.com/gokcehan/lf)
-File Manager | [Nemo](https://github.com/linuxmint/nemo)
-File Archiver Utility | [PeaZip](https://peazip.github.io/)
-Interactive Shell | [fish](https://fishshell.com/)
-System Shell | [GNU Bash](https://www.gnu.org/software/bash/)
-Network management | [NetworkManager](https://networkmanager.dev/) • [NM-Applet/connection-editor](https://gitlab.gnome.org/GNOME/network-manager-applet)
-Modem management | [ModemManager](https://www.freedesktop.org/wiki/Software/ModemManager/) • [Modem Manager GUI](https://sourceforge.net/projects/modem-manager-gui/)
-Bluetooth | [BlueZ](http://www.bluez.org/) • [Blueman](https://github.com/blueman-project/blueman)
-Login Manager | [SDDM](https://github.com/sddm/sddm)
-Screen Sharing | [grim](https://github.com/emersion/grim) • [slurp](https://github.com/emersion/slurp) • [swappy](https://github.com/jtheoof/swappy) • [OBS Studio](https://obsproject.com/)
-Notification Daemon | [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) • [SwayOSD](https://github.com/ErikReider/SwayOSD)
-Input Tools | [gestures](https://gitlab.com/cunidev/gestures)
-Screen locker | [gtklock](https://github.com/jovanlanik/gtklock) • [userinfo-module](https://github.com/jovanlanik/gtklock-userinfo-module) • [Mugshot](https://github.com/bluesabre/mugshot) • [powerbar-module](https://github.com/jovanlanik/gtklock-powerbar-module) • [playerctl-module](https://github.com/jovanlanik/gtklock-playerctl-module)
-Clipboard Manager | [CopyQ](https://hluk.github.io/CopyQ/)
-Theme Manager | [nwg look](https://github.com/nwg-piotr/nwg-look) • [Kvantum](https://github.com/tsujan/Kvantum) • [qt5ct](https://github.com/desktop-app/qt5ct)
-Theme | [Catppuccin](https://catppuccin-website.vercel.app/)
-Cursor And Icon Pack | [Material Cursors](https://github.com/varlesh/material-cursors) • [Papirus Icon Pack](https://github.com/PapirusDevelopmentTeam) • [Papirus Icon Theme folders](https://github.com/catppuccin/papirus-folders)
-Audio Control | [pavucontrol](https://github.com/pulseaudio/pavucontrol) • [pasystray](https://github.com/christophgysin/pasystray) • [QjackCtl](https://github.com/rncbc/qjackctl)
-Power Management | [TLP](https://github.com/linrunner/TLP) • [TLPUI](https://github.com/d4nj1/TLPUI) • [auto cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) • [Slimbook Battery](https://github.com/Slimbook-Team/slimbookbattery) • [PowerTOP](https://github.com/fenrus75/powertop) • [swayidle](https://github.com/swaywm/swayidle)
-
-</details>
-
 
   # Features
 - Hyprland gestures, - 3 Finger Swipe Switch Workspace.
@@ -172,4 +134,51 @@ yay -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra ttf-noto-nerd
 ```sh
 yay -S nvidia-dkms nvidia-utils nvidia-settings libva libva-nvidia-driver 
 ```
+</details>
+
+
+
+
+
+
+
+
+
+
+<details>
+<summary><h1>Packages & Details</h1></summary>
+
+|  |  |
+| :-- | --- |
+Distribution | [Arch Linux](https://archlinux.org/)
+Compositor | [Hyprland](https://hyprland.org/)
+Terminal Emulator | [Kitty](https://sw.kovidgoyal.net/kitty/)
+Applications launcher | [Rofi](https://github.com/lbonn/rofi)
+Bar | [Waybar](https://github.com/Alexays/Waybar)
+Wallpaper| [swww](https://github.com/Horus645/swww) • [Waypaper](https://github.com/anufrievroman/waypaper)
+authentication agent | [xfce-polkit](https://github.com/ncopa/xfce-polkit)
+Antivirus | [ClamAV](https://www.clamav.net/) • [ClamTk](https://sourceforge.net/projects/clamtk/)
+Firewall | [OpenSnitch](https://github.com/evilsocket/opensnitch) • [EtherApe](https://etherape.sourceforge.io/)
+Terminal text editor | [Neovim](https://neovim.io/) • [GNU nano](https://www.nano-editor.org/)
+text editor | [VSCodium](https://vscodium.com/)
+Terminal File Manager | [LF](https://github.com/gokcehan/lf)
+File Manager | [Nemo](https://github.com/linuxmint/nemo)
+File Archiver Utility | [PeaZip](https://peazip.github.io/)
+Interactive Shell | [fish](https://fishshell.com/)
+System Shell | [GNU Bash](https://www.gnu.org/software/bash/)
+Network management | [NetworkManager](https://networkmanager.dev/) • [NM-Applet/connection-editor](https://gitlab.gnome.org/GNOME/network-manager-applet)
+Modem management | [ModemManager](https://www.freedesktop.org/wiki/Software/ModemManager/) • [Modem Manager GUI](https://sourceforge.net/projects/modem-manager-gui/)
+Bluetooth | [BlueZ](http://www.bluez.org/) • [Blueman](https://github.com/blueman-project/blueman)
+Login Manager | [SDDM](https://github.com/sddm/sddm)
+Screen Sharing | [grim](https://github.com/emersion/grim) • [slurp](https://github.com/emersion/slurp) • [swappy](https://github.com/jtheoof/swappy) • [OBS Studio](https://obsproject.com/)
+Notification Daemon | [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) • [SwayOSD](https://github.com/ErikReider/SwayOSD)
+Input Tools | [gestures](https://gitlab.com/cunidev/gestures)
+Screen locker | [gtklock](https://github.com/jovanlanik/gtklock) • [userinfo-module](https://github.com/jovanlanik/gtklock-userinfo-module) • [Mugshot](https://github.com/bluesabre/mugshot) • [powerbar-module](https://github.com/jovanlanik/gtklock-powerbar-module) • [playerctl-module](https://github.com/jovanlanik/gtklock-playerctl-module)
+Clipboard Manager | [CopyQ](https://hluk.github.io/CopyQ/)
+Theme Manager | [nwg look](https://github.com/nwg-piotr/nwg-look) • [Kvantum](https://github.com/tsujan/Kvantum) • [qt5ct](https://github.com/desktop-app/qt5ct)
+Theme | [Catppuccin](https://catppuccin-website.vercel.app/)
+Cursor And Icon Pack | [Material Cursors](https://github.com/varlesh/material-cursors) • [Papirus Icon Pack](https://github.com/PapirusDevelopmentTeam) • [Papirus Icon Theme folders](https://github.com/catppuccin/papirus-folders)
+Audio Control | [pavucontrol](https://github.com/pulseaudio/pavucontrol) • [pasystray](https://github.com/christophgysin/pasystray) • [QjackCtl](https://github.com/rncbc/qjackctl)
+Power Management | [TLP](https://github.com/linrunner/TLP) • [TLPUI](https://github.com/d4nj1/TLPUI) • [auto cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) • [Slimbook Battery](https://github.com/Slimbook-Team/slimbookbattery) • [PowerTOP](https://github.com/fenrus75/powertop) • [swayidle](https://github.com/swaywm/swayidle)
+
 </details>
