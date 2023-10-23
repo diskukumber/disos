@@ -152,7 +152,7 @@ yay -S bluez bluez-utils blueman networkmanager network-manager-applet
 
 ```sh
 ## Dependencies
-yay -S nwg-look kvantum qt5ct kvantum-theme-catppuccin-git papirus-icon-theme papirus-folders-catppuccin-git
+yay -S nwg-look-bin kvantum qt5ct kvantum-theme-catppuccin-git papirus-icon-theme papirus-folders-catppuccin-git
 catppuccin-gtk-theme-latte catppuccin-gtk-theme-frappe catppuccin-gtk-theme-macchiato catppuccin-gtk-theme-mocha
 ```
 </details>
