@@ -76,71 +76,27 @@ brightnessctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
 
 ```
 
-
-
-</details>
-
-
-
-
-
-<details>
-<summary><h3></h3></summary>
-
-
-
-</details>
-
-
-
-
-<details>
-<summary><h3>Bluetooth And Network</h3></summary>
-
-
+# Bluetooth And Network
 ```sh
 yay -S bluez bluez-utils blueman networkmanager network-manager-applet
 ```
-</details>
 
-
-
-
-
-<details>
-<summary><h3>themes</h3></summary>
-
-
+# themes
 ```sh
 yay -S nwg-look-bin kvantum qt5ct qt6ct kvantum-theme-catppuccin-git
 papirus-icon-theme papirus-folders-catppuccin-git material-cursors-git sound-theme-smooth 
 catppuccin-gtk-theme-latte catppuccin-gtk-theme-frappe catppuccin-gtk-theme-macchiato catppuccin-gtk-theme-mocha
 ```
-</details>
 
-
-
-
-
-<details>
-<summary><h3>Fonts</h3></summary>
-
-
+# Fonts
 ```sh
 yay -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra ttf-noto-nerd
 ```
-</details>
 
-
-
-
-<details>
-<summary><h3>NVIDIA drivers</h3></summary>
-
+# NVIDIA drivers
 ```sh
 yay -S nvidia-dkms nvidia-utils nvidia-settings libva libva-nvidia-driver 
 ```
-</details>
 
 
 
