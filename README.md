@@ -58,6 +58,7 @@ This repository will be updated as development progresses.
 <summary><h3>INSTALLATION Arch And Arch-based distributions</h3></summary>
 After installing hyprland using the [Timeshift](https://github.com/teejee2008/timeshift) and booting
 to your hyprland fresh install open kityy with super enter and run the fallowing cammand
+- System backup: it integrates with [Timeshift](https://github.com/teejee2008/timeshift) to
 
 ```sh
 sudo pacman -Rnscc dunst dolphin wofi
