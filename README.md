@@ -56,6 +56,12 @@ This repository will be updated as development progresses.
 
 <details>
 <summary><h3>INSTALLATION Arch And Arch-based distributions</h3></summary>
+After installing hyprland using the [archinstall](https://archlinux.org/) and booting
+to your hyprland fresh install open kityy with super enter and run the fallowing cammand
+```sh
+sudo pacman -Rnscc dunst dolphin wofi
+```
+and if you're using nvidia gpu you have to replace the hyperland packge with hyprland nvidia from the aur
 
 # Hyprland Stuff
 ```sh
