@@ -135,7 +135,7 @@ Notification Daemon | [SwayNotificationCenter](https://github.com/ErikReider/Swa
 Input Tools | [gestures](https://gitlab.com/cunidev/gestures)
 Screen locker | [gtklock](https://github.com/jovanlanik/gtklock) • [userinfo-module](https://github.com/jovanlanik/gtklock-userinfo-module) • [Mugshot](https://github.com/bluesabre/mugshot) • [powerbar-module](https://github.com/jovanlanik/gtklock-powerbar-module) • [playerctl-module](https://github.com/jovanlanik/gtklock-playerctl-module)
 Clipboard Manager | [CopyQ](https://hluk.github.io/CopyQ/)
-Theme Manager | [nwg look](https://github.com/nwg-piotr/nwg-look) • [Kvantum](https://github.com/tsujan/Kvantum) • [qt5ct](https://github.com/desktop-app/qt5ct)
+Theme Manager | [nwg look](https://github.com/nwg-piotr/nwg-look) • [Kvantum](https://github.com/tsujan/Kvantum) • [qt5ct](https://github.com/desktop-app/qt5ct) • [qt6ct](https://github.com/trialuser02/qt6ct)
 Theme And Sound Theme | [Catppuccin](https://catppuccin-website.vercel.app/) • [Smooth](https://www.pling.com/p/1187979/)
 Cursor And Icon Pack | [Material Cursors](https://github.com/varlesh/material-cursors) • [Papirus Icon Pack](https://github.com/PapirusDevelopmentTeam) • [Papirus Icon Theme folders](https://github.com/catppuccin/papirus-folders)
 Audio Control | [pavucontrol](https://github.com/pulseaudio/pavucontrol) • [pasystray](https://github.com/christophgysin/pasystray) • [QjackCtl](https://github.com/rncbc/qjackctl)
