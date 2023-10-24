@@ -57,7 +57,7 @@ This repository will be updated as development progresses.
 <div align="left">
 
 <details>
-<summary><h3>INSTALLATION</h3></summary>
+<summary><h3>INSTALLATION Arch And Arch-based distributions</h3></summary>
 
 # Hyprland Stuff
 ```sh
