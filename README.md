@@ -97,7 +97,7 @@ yay -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra ttf-noto-nerd
 ```sh
 yay -S nvidia-dkms nvidia-utils nvidia-settings libva libva-nvidia-driver 
 ```
-
+<details>
 
 
 
