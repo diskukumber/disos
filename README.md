@@ -56,10 +56,8 @@ This repository will be updated as development progresses.
 
 # INSTALLATION step 1
 
-- I use [sway](https://github.com/swaywm/sway) and 
-After installing hyprland using the | [Timeshift](https://github.com/teejee2008/timeshift) | and booting
+- After installing hyprland using the [archinstall](https://github.com/archlinux/archinstall) and booting
 to your hyprland fresh install open kityy with super enter and run the fallowing cammand
-- System backup: it integrates with [Timeshift](https://github.com/teejee2008/timeshift) to
 ```sh
 sudo pacman -Rnscc dunst dolphin wofi
 ```
@@ -69,7 +67,6 @@ and if you're using nvidia gpu you have to replace the hyperland packge with hyp
 
 <details>
 <summary><h3>INSTALLATION Arch And Arch-based distributions</h3></summary>
-
 
 # Hyprland Stuff
 ```sh
