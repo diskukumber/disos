@@ -31,12 +31,15 @@ to your hyprland fresh install open kityy with super enter and run the fallowing
 ```sh
 sudo pacman -Rnscc dunst dolphin wofi
 ```
-- insttall [yay](https://github.com/Jguer/yay) the AUR Helper
-- and if you're using nvidia gpu you have to replace the hyperland packge with hyprland nvidia from the aur
+- don't forget to insttall [yay](https://github.com/Jguer/yay) the AUR Helper
+- install your web browesr of choes and head to this repo and run the commands below as it fits you
+
+  
+- for nvidia users replace the hyperland beas packge with hyprland-nvidia from the aur by runing the cmannd below
 ```sh
 yay -S hyprland-nvidia
 ```
-install your web browesr of choes and come to this repo and run the cmand below as it fits you
+
 
 <details>
 <summary><h3>INSTALLATION Arch And Arch-based distributions step 2</h3></summary>
