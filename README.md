@@ -24,19 +24,21 @@ This repository will be updated as development progresses.
 
 
 
-# INSTALLATION step 1
+# INSTALLATION Arch And Arch-based distributions step 1
 
 - After installing hyprland using the [archinstall](https://github.com/archlinux/archinstall) and booting
-to your hyprland fresh install open kityy with super enter and run the fallowing cammand
+to your hyprland fresh install open kityy with super enter and run the fallowing command to remove unnaccery packges
 ```sh
 sudo pacman -Rnscc dunst dolphin wofi
 ```
+- insttall [yay](https://github.com/Jguer/yay) the AUR Helper
+- 
 and if you're using nvidia gpu you have to replace the hyperland packge with hyprland nvidia from the aur
 
 
 
 <details>
-<summary><h3>INSTALLATION Arch And Arch-based distributions</h3></summary>
+<summary><h3>INSTALLATION Arch And Arch-based distributions step 2</h3></summary>
 
 # Hyprland Stuff
 ```sh
