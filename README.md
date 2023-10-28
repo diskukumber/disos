@@ -41,7 +41,7 @@ sudo pacman -Rnscc dunst dolphin wofi
 
 <details>
 <summary><h3>INSTALLATION Arch And Arch-based distributions step 2</h3></summary>
-
+[GRUVxYRLAND](https://github.com/linuxmobile/hyprland-dots/tree/Gruvland)
 # Hyprland Stuff
 ```sh
 yay -S hyprland-nvidia xdg-desktop-portal-hyprland waybar swaync swww waypaper-git
