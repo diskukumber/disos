@@ -42,6 +42,15 @@ sudo pacman -Rnscc dunst dolphin wofi
 <details>
 <summary><h3>INSTALLATION Arch And Arch-based distributions step 2</h3></summary>
 
+- After installing hyprland using the [archinstall](https://github.com/archlinux/archinstall) and booting
+to your hyprland fresh install open kityy with super enter and run the fallowing command to remove unnaccery packges
+```sh
+sudo pacman -Rnscc dunst dolphin wofi
+```
+- don't forget to insttall [yay](https://github.com/Jguer/yay) the AUR Helper
+- install your web browesr of choes and head to this repo and run the commands below as it fits you
+
+  
 - for [NVIDIA](https://wiki.archlinux.org/title/NVIDIA) users follw this guid over at the [Hyprland Wiki](https://wiki.hyprland.org/Nvidia/) and this for [Multi Gpu](https://wiki.hyprland.org/Configuring/Multi-GPU/)
 
   
