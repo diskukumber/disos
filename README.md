@@ -41,6 +41,10 @@ sudo pacman -Rnscc dunst dolphin wofi
 
 <details>
 <summary><h3>INSTALLATION Arch And Arch-based distributions step 2</h3></summary>
+
+- for [NVIDIA](https://wiki.archlinux.org/title/NVIDIA) users follw this guid over at the [Hyprland Wiki](https://wiki.hyprland.org/Nvidia/) and this for [Multi Gpu](https://wiki.hyprland.org/Configuring/Multi-GPU/)
+
+  
 # Hyprland Stuff
 ```sh
 yay -S hyprland-nvidia xdg-desktop-portal-hyprland waybar swaync swww waypaper-git
