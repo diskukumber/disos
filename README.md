@@ -35,10 +35,8 @@ sudo pacman -Rnscc dunst dolphin wofi
 - install your web browesr of choes and head to this repo and run the commands below as it fits you
 
   
-- for nvidia users replace the hyperland beas packge with hyprland-nvidia from the aur by runing the cmannd below
-```sh
-yay -S hyprland-nvidia
-```
+- for nvidia users follw this guid in the  [ hyperland wiki](https://wiki.hyprland.org/Nvidia/)
+
 
 
 <details>
