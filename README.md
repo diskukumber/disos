@@ -43,7 +43,7 @@ sudo pacman -Rnscc dunst dolphin wofi
 # Hyprland Stuff
 ```sh
 yay -S waybar swaync swayosd-git rofi-lbonn-wayland-git swww waypaper-git
-xfce-polkit swayidle gestures gammastep mugshot copyq
+xfce-polkit swayidle gestures gammastep mugshot copyq conky
 gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module
 ```
 
@@ -63,7 +63,8 @@ yay -S bluez bluez-utils blueman networkmanager network-manager-applet
 
 # core apps
 ```sh
-yay -S nemo nemo-fileroller opensnitch
+yay -S nemo nemo-fileroller opensnitch etherape clamav clamtk bleachbit stacer-bin slimbookbattery
+reflector mpv imv grub-customizer
 ```
 
 
