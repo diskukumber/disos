@@ -42,16 +42,15 @@ sudo pacman -Rnscc dunst dolphin wofi
   
 # Hyprland Stuff
 ```sh
-yay -S hyprland-nvidia xdg-desktop-portal-hyprland waybar swaync swww waypaper-git
-rofi-lbonn-wayland-git xfce-polkit swayosd-git swayidle gestures gammastep mugshot
-gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module copyq
-
+yay -S waybar swaync swayosd-git rofi-lbonn-wayland-git swww waypaper-git
+xfce-polkit swayidle gestures gammastep mugshot copyq
+gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module
 ```
 
 # Dependencies
 ```sh
 yay -S xorg-xwayland xwaylandvideobridge-cursor-mode-2-git ffmpegthumbnailer tumbler
-qt5-wayland qt6-wayland gtk3 gtk4 glew-wayland glfw-wayland
+qt5-wayland qt6-wayland glew-wayland glfw-wayland
 pamixer playerctl wireplumber pavucontrol qjackctl pasystray-wayland
 brightnessctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
 
@@ -61,6 +60,12 @@ brightnessctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
 ```sh
 yay -S bluez bluez-utils blueman networkmanager network-manager-applet
 ```
+
+# core apps
+```sh
+yay -S nemo nemo-fileroller opensnitch
+```
+
 
 # themes
 ```sh
