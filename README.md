@@ -70,9 +70,8 @@ reflector mpv imv grub-customizer
 
 # themes
 ```sh
-yay -S nwg-look-bin kvantum qt5ct qt6ct kvantum-theme-catppuccin-git
-papirus-icon-theme papirus-folders-catppuccin-git material-cursors-git sound-theme-smooth 
-catppuccin-gtk-theme-latte catppuccin-gtk-theme-frappe catppuccin-gtk-theme-macchiato catppuccin-gtk-theme-mocha
+yay -S nwg-look-bin kvantum qt5ct qt6ct kvantum-theme-dracula-git dracula-gtk-theme
+papirus-icon-theme papirus-folders-git material-cursors-git sound-theme-smooth 
 ```
 
 # Fonts
