@@ -1,0 +1,60 @@
+conky.config = {
+    background = true,
+    --font = 'Noto Sans:bold:size=8',
+    uppercase = false,
+    override_utf8_locale = true,
+    default_color = 'white',
+
+    alignment = 'top_left',
+    gap_x = 25,
+    gap_y = 15,
+    minimum_width = 1300,
+    maximum_width = 1300,
+    minimum_height = 100,
+    maximum_height = 100,
+
+
+    background = true,
+    own_window = true,
+    own_window_class = 'Conky',
+    own_window_type = 'override',
+    own_window_transparent = true,
+    own_window_argb_visual = true,
+    own_window_argb_value = 255,
+    own_window_hints = 'undecorated,below,above,sticky,skip_taskbar,skip_pager',
+
+    double_buffer = true,
+    draw_shades = true,
+    draw_outline = false,
+    draw_borders = false,
+    draw_graph_borders = false,
+    draw_blended = true,
+
+    no_buffers = true,
+    use_xft = true,
+    xftalpha = 0.1,
+    cpu_avg_samples = 2,
+    update_interval = 1,
+    total_run_times = 0,
+    imlib_cache_size = 0,
+};
+
+conky.text = [[
+# --- Get Spotify Cover ---
+${if_running spotify}
+${exec ~/.conky/conky-spotify/scripts/cover.sh}
+# --- Show wallpaper and cover ---
+${image ~/.conky/conky-spotify/current/current.jpg -p 0,13 -s 164x164}
+${image ~/.conky/conky-spotify/background.png}
+# --- Show now playing information ---
+${voffset -110}
+${goto 180}${font Noto Sans:size=8}Title:
+${goto 190}${font Noto Sans:size=20}${exec ~/.conky/conky-spotify/scripts/title.sh}
+${voffset -46}
+${goto 180}${font Noto Sans:size=8}Artist:
+${goto 190}${font Noto Sans:size=20}${exec ~/.conky/conky-spotify/scripts/artist.sh}
+${voffset -46}
+${goto 180}${font Noto Sans:size=8}Album:
+${goto 190}${font Noto Sans:size=20}${exec ~/.conky/conky-spotify/scripts/album.sh}
+${endif}
+]];
