@@ -50,7 +50,8 @@ gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module
 # Dependencies
 ```sh
 yay -S xorg-xwayland xwaylandvideobridge-bin ffmpegthumbnailer tumbler
-qt5-wayland qt6-wayland glew-wayland glfw-wayland xdg-desktop-portal-gtk
+qt5-wayland qt6-wayland glew-wayland glfw-wayland
+xdg-desktop-portal xdg-desktop-portal-wlr xdg-desktop-portal-hyprland xdg-desktop-portal-gtk
 pamixer playerctl wireplumber pavucontrol qjackctl pasystray-wayland
 brightnessctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
 
@@ -63,7 +64,7 @@ yay -S bluez bluez-utils blueman networkmanager network-manager-applet
 
 # core apps
 ```sh
-yay -S nemo nemo-fileroller opensnitch clamav clamtk bleachbit stacer-bin slimbookbattery mpv imv 
+yay -S nemo nemo-fileroller opensnitch clamav clamtk bleachbit stacer-bin tuxedo-control-center-bin mpv imv 
 ```
 
 
