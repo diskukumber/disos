@@ -51,7 +51,7 @@ gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module
 ```sh
 yay -S xorg-xwayland xwaylandvideobridge-bin ffmpegthumbnailer tumbler
 qt5-wayland qt6-wayland glew-wayland glfw-wayland
-xdg-desktop-portal xdg-desktop-portal-wlr xdg-desktop-portal-hyprland xdg-desktop-portal-gtk
+xdg-desktop-portal xdg-desktop-portal-hyprland xdg-desktop-portal-gtk
 pamixer playerctl wireplumber pavucontrol qjackctl pasystray-wayland
 brightnessctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
 
