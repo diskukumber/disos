@@ -39,6 +39,12 @@ sudo pacman -Rnscc dunst dolphin wofi
   
 - for [NVIDIA](https://wiki.archlinux.org/title/NVIDIA) users follw this guid over at the [Hyprland Wiki](https://wiki.hyprland.org/Nvidia/) and this for [Multi Gpu](https://wiki.hyprland.org/Configuring/Multi-GPU/)
 
+
+add user to input group
+```sh
+sudo usermod -a -G input khairy
+```
+
   
 # Hyprland Stuff
 ```sh
