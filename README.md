@@ -42,8 +42,8 @@ sudo pacman -Rnscc dunst dolphin wofi
   
 # Hyprland Stuff
 ```sh
-yay -S waybar swaync swayosd-git rofi-lbonn-wayland-git swww waypaper-git
-xfce-polkit swayidle gestures gammastep mugshot copyq conky ly
+yay -S waybar swaync swayosd-git rofi-lbonn-wayland-git swww
+xfce-polkit swayidle gestures gammastep mugshot copyq conky
 gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module
 ```
 
