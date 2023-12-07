@@ -73,6 +73,11 @@ yay -S bluez bluez-utils blueman networkmanager network-manager-applet
 yay -S nemo nemo-fileroller opensnitch clamav clamtk bleachbit stacer-bin tuxedo-control-center-bin mpv imv 
 ```
 
+# VSCodium
+```sh
+yay -S vscodium-bin vscodium-bin-marketplace vscodium-bin-features 
+```
+
 
 # themes
 ```sh
