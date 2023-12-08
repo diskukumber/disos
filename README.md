@@ -55,10 +55,9 @@ gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module
 
 # Dependencies
 ```sh
-yay -S xorg-xwayland xwaylandvideobridge-bin ffmpegthumbnailer tumbler
-qt5-wayland qt6-wayland glew-wayland glfw-wayland
-xdg-desktop-portal xdg-desktop-portal-hyprland xdg-desktop-portal-gtk
-pamixer playerctl wireplumber pavucontrol qjackctl pasystray-wayland
+yay -S xorg-xwayland xwaylandvideobridge-bin ffmpegthumbnailer
+tumbler xdg-desktop-portal xdg-desktop-portal-gtk xdg-user-dirs
+pamixer playerctl pavucontrol qjackctl pasystray-wayland
 brightnessctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
 
 ```
@@ -82,7 +81,7 @@ yay -S vscodium-bin vscodium-bin-marketplace vscodium-bin-features
 # themes
 ```sh
 yay -S nwg-look-bin kvantum qt5ct qt6ct kvantum-theme-dracula-git dracula-gtk-theme
-papirus-icon-theme papirus-folders-git material-cursors-git sound-theme-smooth grub-customizer
+papirus-icon-theme papirus-folders-git googledot-cursor-theme sound-theme-smooth grub-customizer
 ```
 
 # Fonts
