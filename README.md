@@ -42,23 +42,23 @@ sudo pacman -Rnscc dunst dolphin wofi
 
 add user to input group
 ```sh
-sudo usermod -a -G input khairy
+sudo usermod -a -G input username
 ```
 
   
 # Hyprland Stuff
 ```sh
-yay -S waybar swaync swayosd-git rofi-lbonn-wayland-git swww
-xfce-polkit swayidle gestures gammastep mugshot copyq conky
+yay -S waybar swaync swayosd-git rofi-lbonn-wayland swww  \
+xfce-polkit swayidle gestures gammastep mugshot copyq conky  \
 gtklock gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module
 ```
 
 # Dependencies
 ```sh
-yay -S xorg-xwayland xwaylandvideobridge-bin ffmpegthumbnailer
-tumbler xdg-desktop-portal xdg-desktop-portal-gtk xdg-user-dirs
-pamixer playerctl pavucontrol qjackctl pasystray-wayland
-brightnessctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2
+yay -S xorg-xwayland xwaylandvideobridge-bin ffmpegthumbnailer  \
+tumbler xdg-desktop-portal xdg-desktop-portal-gtk xdg-user-dirs  \
+pamixer playerctl pavucontrol qjackctl pasystray-wayland  \
+brightnessctl grim slurp swappy mtpfs gvfs gvfs-mtp gvfs-gphoto2  
 
 ```
 
@@ -80,7 +80,7 @@ yay -S vscodium-bin vscodium-bin-marketplace vscodium-bin-features
 
 # themes
 ```sh
-yay -S nwg-look-bin kvantum qt5ct qt6ct kvantum-theme-dracula-git dracula-gtk-theme
+yay -S nwg-look-bin kvantum qt5ct qt6ct kvantum-theme-dracula-git dracula-gtk-theme  \
 papirus-icon-theme papirus-folders-git googledot-cursor-theme sound-theme-smooth grub-customizer
 ```
 
