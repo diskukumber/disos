@@ -80,7 +80,7 @@ yay -S vscodium-bin vscodium-bin-marketplace vscodium-bin-features
 
 # themes
 ```sh
-yay -S nwg-look-bin kvantum qt5ct qt6ct kvantum-theme-dracula-git dracula-gtk-theme  \
+yay -S nwg-look-bin qt5ct qt6ct adwaita-qt5-git adwaita-qt6-git gnome-themes-extra \
 papirus-icon-theme papirus-folders-git googledot-cursor-theme sound-theme-smooth grub-customizer
 ```
 
