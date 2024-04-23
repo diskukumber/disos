@@ -1,115 +1,184 @@
-{
-
-
-//-----------------------------------------------------------------------------------------------------
+[{
+    "id": "bottom",
+    "name": "bottom",
     "layer": "top",
-    "position": "top",
-    "output": "eDP-1",
-    "gtk-layer-shell": true,
-    "spacing": 2,
-//-----------------------------------------------------------------------------------------------------    
+    "position": "bottom",
+    "height": 0,
+    "margin": "0px 0px 0p 0px",
+    "spacing": 0,
+    "all-outputs": true,
     
     
+    "modules-left": ["custom/launcher", "wlr/taskbar"],
     
+    "modules-center": [ "hyprland/workspaces" ],
     
-//-----------------------------------------------------------------------------------------------------    
-    "modules-left": ["custom/launcher", "wlr/workspaces"],
-    
-    "modules-center": ["wlr/taskbar"],
-    
-    "modules-right": ["tray", "clock", "custom/power"],
-//-----------------------------------------------------------------------------------------------------    
-    
-    
+    "modules-right": [ "network", "memory", "cpu", "keyboard-state", "hyprland/language", "clock", "tray", "idle_inhibitor", "custom/notifications"],
+        
+
+    "idle_inhibitor": {
+        "tooltip-format-activated": "Caffeine OFF",
+        "tooltip-format-deactivated": "Caffeine ON",
+        "format": "{icon}",
+        "format-icons": {
+            "activated": "󰒳",
+            "deactivated": "󰒲",
+        }
+    },
 
 
-//-----------------------------------------------------------------------------------------------------
+    "network": {
+        "interval": 1,
+        "interface": "wlan0",
+        "format-wifi": "<span color=\"#cc241d\">⇣</span>{bandwidthDownBytes}  <span color=\"#8ec07c\">⇡</span>{bandwidthUpBytes}",
+        "format-ethernet": "⇣{bandwidthDownBytes}  ⇡{bandwidthUpBytes}",
+        "format-disconnected": "", //An empty format will hide the module.
+        "tooltip-format": "IP {ipaddr}",
+        "tooltip-format-wifi": "IP {ipaddr}",
+        "tooltip-format-ethernet": "IP {ipaddr}",
+        "tooltip-format-disconnected": "Disconnected",
+    },
 
-
-"custom/launcher":{
-    "format": "",
-    "on-click": "rofi -no-lazy-grab -show drun -theme ~/.config/rofi/launcher.rasi",
-    "on-click-right": "killall rofi"
-},
 
     
-//-----------------------------------------------------------------------------------------------------    
-"wlr/workspaces": {
+    
+"hyprland/workspaces": {
     "disable-scroll": false,
-    "on-scroll-up": "hyprctl dispatch workspace e+1",
-    "on-scroll-down": "hyprctl dispatch workspace e-1",
+    "active-only": false,
+    "sort-by-number": true,
     "all-outputs": true,
     "on-click": "activate",
+    "on-scroll-up": "hyprctl dispatch workspace e+1",
+    "on-scroll-down": "hyprctl dispatch workspace e-1",
     "format": "{icon}",
     "format-icons": {
-              "1": "１",
-              "2": "２",
-              "3": "３",
-              "4": "４",
-              "5": "５",
-              "6": "６",
-              "7": "７",
-              "8": "８",
-              "9": "９",
-              "10": "１０",
-             "urgent": "",
-             "focused": "",
-             "default": "",
-          }
+        "1": "I",
+		"2": "II",
+		"3": "III",
+		"4": "IV",
+		"5": "V",
+                "6": "VI",
+		"7": "VII",
+		"8": "VIII",
+		"9": "IX",
+		"10": "X",
+        "urgent": "󱎘",
+        "active": "󰨕󰨕󰨕",
+        "default": "󰎔",
+        },
       },
-//-----------------------------------------------------------------------------------------------------
+
 
 
 
     
-//-----------------------------------------------------------------------------------------------------    
+    
 "tray": {
     "icon-size": 16,
     "spacing": 10,
 },
-//-----------------------------------------------------------------------------------------------------  
+  
 
+
+
+
+
+  "hyprland/language": {
+    "format": "<span color=\"#b16286\">  </span> {short}",
+    "format-us_101_qwerty_comma_dead": "   US",
+    "format-ar_101_qwerty_comma_dead": "   AR",
+    "keyboard-name": "at-translated-set-2-keyboard",
+    "on-click": "hyprctl switchxkblayout at-translated-set-2-keyboard next",
+},
+
+
+"keyboard-state": {
+    "interval": 2,
+    "capslock": true,
+    "numlock": true,
+    "scrolllock": true,
+    "device-path": "/dev/input/by-path/platform-i8042-serio-0-event-kbd",
+    "format": {
+        "capslock": "󰘲 {icon}",
+        "numlock": " {icon}",
+        "scrolllock": "󱜦 {icon}"                                                                                                                                                  
+    },
+    "format-icons": {
+        "locked": "<span color=\"#cc241d\"></span>",
+        "unlocked": "<span color=\"#8ec07c\"></span>"
+    }
+},
+
+
+  "cpu": {
+    "interval": 1,
+    "format": "<span color=\"#d65d0e\"> </span>  {usage}%",
+},
+
+  "memory": {
+    "interval": 10,
+    "format": "<span color=\"#d79921\"> </span>  {percentage}%",
+},
 
 
 
   
   
-//-----------------------------------------------------------------------------------------------------  
 "clock": {
     "interval": 1,
-    "format": "<span color=\"#ff5555\"></span>  {:%I : %M : %S %p}",
-    "format-alt": "<span color=\"#bd93f9\"></span>   {:%d / %m / %Y}",
-    "tooltip-format": "<big>{:%B %Y}</big>\n<tt><small>{calendar}</small></tt>",
+    "format": "<span color=\"#cc241d\"> </span>  {:%I:%M:%OS %p}",
+    "format-alt": "<span color=\"#458588\"> </span>   {:%d / %m / %Y}",
+
 },
-//-----------------------------------------------------------------------------------------------------    
+    
   
 
 
-"custom/power":{
-    "format": "",
-    "on-click": "wlogout",
+
+"custom/notifications":{
+    "tooltip": false,
+    "format": "{icon} {}",
+    "format-icons": {
+        "notification": "<span foreground='#cc241d'><sup></sup></span>",
+        "none": "",
+        "dnd-notification": "<span foreground='#cc241d'><sup></sup></span>",
+        "dnd-none": "",
+        "inhibited-notification": "<span foreground='#cc241d'><sup></sup></span>",
+        "inhibited-none": "",
+        "dnd-inhibited-notification": "<span foreground='#cc241d'><sup></sup></span>",
+        "dnd-inhibited-none": ""
+      },
+    "return-type": "json",
+    "exec-if": "which swaync-client",
+    "exec": "sleep 0.1; swaync-client -swb",
+    "on-click": "sleep 0.1; swaync-client -t -sw",
+    "on-click-right": "sleep 0.1; swaync-client -d -sw",
+    "escape": true
 },
 
 
-
-
-
-//-----------------------------------------------------------------------------------------------------
-"wlr/taskbar": {
+"custom/launcher":{
+    "format": "",
+    "tooltip": false,
+    "on-click": "sleep 0.1; rofi -no-lazy-grab -show drun -theme ~/.config/rofi/launcher.rasi",
+    "escape": true
+    },
+        
+        
+    "wlr/taskbar": {
     "all-outputs": true,
-    "active-first": true,
+    "active-first": false,
     "format": "{icon}",
-    "icon-size": 24,
-    "icon-theme": "papirus-dark",
+    "icon-size": 38,
+    "icon-theme": "Papirus-Dark",
     "tooltip": true,
     "tooltip-format": "{title}",
     "on-click": "activate",
     "on-click-middle": "close",
-    "on-click-right": "minimize-raise",
-},
-//-----------------------------------------------------------------------------------------------------
+    "on-click-right": "hyprctl dispatch killactive",
+    },
 
 
 
 
-}
+}]

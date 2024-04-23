@@ -16,7 +16,7 @@ This repository will be updated as development progresses.
 
 
 ## screenshots
-![Screenshot](/gallery/1.png)
+![Screenshot](/gallery/2.png)
 
 
 

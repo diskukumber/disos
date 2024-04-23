@@ -1,0 +1,4 @@
+timeout 600 'gtklock -d'
+timeout 1200 'hyprctl dispatch dpms off' resume 'hyprctl dispatch dpms on'
+before-sleep 'gtklock -d'
+timeout 600 "systemctl suspend"

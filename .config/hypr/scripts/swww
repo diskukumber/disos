@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+DIR=/home/diskukumber/Pictures/wallpapers
+PICS=($(ls ${DIR}))
+
+RANDOMPICS=${PICS[ $RANDOM % ${#PICS[@]} ]}
+
+if [[ $(pidof swaybg) ]]; then
+  pkill swaybg
+fi
+
+swww query || swww init
+
+#change-wallpaper using swww
+swww img ${DIR}/${RANDOMPICS} \
+ --transition-fps 144 \
+ --transition-type wipe \
+ --transition-step 8 \
+ --transition-duration 2 \
+ --transition-pos "$( hyprctl cursorpos )" \
+ --transition-bezier .43,1.19,1,.4 \
+         

@@ -1,165 +1,310 @@
-/* ----------------------------------------------------------------------------------------------------- */
 * {
-  font-family: "Roboto", "Font Awesome 6 Free";
-  font-size: 13px;
+  font-family: "Noto Sans SemiBold", Noto Nerd Font;
   font-weight: bold;
   border-radius: 0px;
-  transition-property: background-color;
-  transition-duration: 0.5s;
-}
-/* ----------------------------------------------------------------------------------------------------- */
-
-
-
-
-/* ----------------------------------------------------------------------------------------------------- */
-window#waybar {
-    background-color: transparent;
-}
-window > box {
-  margin-left: 15px;
-  margin-right: 15px;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  background-color: rgb(0, 0, 0);
-}
-/* ----------------------------------------------------------------------------------------------------- */
-
-#custom-launcher {
-  color: #ffffff;
-  padding: 11 11px;
-  background: #000000;
-}
-
-
-#custom-power {
-  color: #ffffff;
-  padding: 11 11px;
-  background: #000000;
-}
-
-
-
-
-
-
-/* workspaces */
-/* ----------------------------------------------------------------------------------------------------- */
-
-#workspaces button {
-    padding: 11 11px;
-    margin: 0 0px;
-    border-right: 0px solid #ffffff;
-    border-left: 0px solid #ffffff;
-    color: #ffffff;
-    background: #000000;
-}
-
-#workspaces button:hover {
-   color: #ffffff;
-   background: #2A5CDB;
-   box-shadow: inset 0 -3px #ffffff;
-}
-
-#workspaces button.focused {
-    box-shadow: inset 0 -3px #ffffff;
-    color: #2A5CDB;
-    background: #2A5CDB;
-}
-
-#workspaces button.active {
-  border-radius: 0px;
-  background: #2A5CDB;
-  color: #ffffff;
-  box-shadow: inset 0 -3px #ffffff;
-}
-
-#workspaces button.urgent {
-    background-color: #eb4d4b;
-}
-
-
-
-/* ----------------------------------------------------------------------------------------------------- */
-
-
-
-
-
-/* ----------------------------------------------------------------------------------------------------- */
-tooltip {
-    background: #000000;
-    border-radius: 0px;
-    border-width: 2px;
-    border-style: solid;
-    border-color: #2A5CDB;
-}
-/* ----------------------------------------------------------------------------------------------------- */
-
-
-
-
-/* ----------------------------------------------------------------------------------------------------- */
-#tray {
+  border-style: solid;
   min-height: 0;
+}
+
+#window{
+  color: transparent;
+}
+window#waybar {
+    background: transparent;
+    background-color: transparent;
+    transition-property: transparent;
+    transition-duration: .5s;
+}
+window#waybar > box {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  background:	#242424;
+  border-width: 0px;
+  border-radius: 8px 8px 8px 8px;
+  border-color: #3584e4;
+
+}
+
+/* -----------------------------------------------------
+ * Tray
+ * ----------------------------------------------------- */
+
+ #tray {
+  background: #1e1e1e;
+  margin: 5px;
   border-radius: 0px;
-  padding: 0px 10px;
-  margin: 0px 0px;
-  background-color: #000000;
-}
-/* ----------------------------------------------------------------------------------------------------- */
-
-
-
-
-
-/* ----------------------------------------------------------------------------------------------------- */
-#clock {
-    padding: 0 10px;
-    margin: 0 10px;
-    background-color: #000000;
-    color: #ffffff;
-    border-radius: 0px;
-}
-/* ----------------------------------------------------------------------------------------------------- */
-
-
-
-
-/* ----------------------------------------------------------------------------------------------------- */
-#taskbar {
-  background: #000000;
-  padding: 0 0.0em;
-  margin-right: 0px;
   margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 0px 6px;
+}
+
+#tray > .passive {
+  -gtk-icon-effect: dim;
+}
+
+#tray > .needs-attention {
+  -gtk-icon-effect: highlight;
+  background-color: #3584e4;
+  padding: 0px 6px;
   margin-top: 0px;
   margin-bottom: 0px;
-  border-radius: 0px;
+}
+
+
+#idle_inhibitor {
   color: #FFFFFF;
+  background: #1e1e1e;
+  margin: 5px;
+  font-size: 20px;
+  padding-left: 3px;
+  padding-right: 11px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#keyboard-state,
+#keyboard-state label,
+#keyboard-state label.locked,
+#language,
+#cpu,
+#memory,
+#clock {
+  font-size: 13px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background: #1e1e1e;
+  margin: 5px;
+  border-radius: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 0px 5px;
+}
+#custom-notifications {
+  background: #1e1e1e;
+  margin: 5px;
+  color: #FFFFFF;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 0px 32px 32px 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#network {
+  font-size: 13px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background: #1e1e1e;
+  margin: 5px;
+  border-radius: 32px 0px 0px 32px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 0px 5px;
+}
+
+#custom-launcher {
+  background-color: transparent;
+  color: #3584e4;
+  font-size: 38px;
+  font-weight: bold;
+  border: none;
+  padding-left: 6px;
+  padding-right: 16px;
+  margin-left: 6px;
+  margin-right: 2px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+tooltip {
+  background: #3c3836;
+  border-radius: 0px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #98971a;
+  color: #FFFFFF;
+}
+
+
+
+#workspaces {
+  background: #1e1e1e;
+  border-radius: 15px;
+  margin: 10px 10px;
+  
+}
+
+#workspaces button {
+  opacity: 1.0;
+  padding: 0px 10px;
+  margin: 2px 2px;
+  border-radius: 20px;
+  background-color: #242424;
+  transition: all 0.2s ease-in-out;
+  font-weight: bold;
+  font-style: normal;
+  font-size:14px;
+  color: #FFFFFF;
+}
+#workspaces button.active {
+  color: #FFFFFF;
+  background-color: #242424;
+  border-radius: 20px;
+  min-width: 35px;
+  background-size: 350% 350%;
+  transition: all 0.2s ease-in-out;
+   font-weight: bold;
+  font-style: normal;
+  font-size:14px;
+}
+#workspaces button:hover {
+  background-color: #242424;
+  margin: 2px 2px;
+  border-radius: 20px;
+  min-width: 35px;
+  background-size: 350% 350%;
+  font-weight: bold;
+  font-style: normal;
+  font-size:14px;
+  color: #FFFFFF;
+}
+#workspaces button.empty {
+  color: #FFFFFF;
+  background-color: #458588;
+  border-radius: 20px;
+  min-width: 35px;
+  background-size: 350% 350%;
+  transition: all 0.2s ease-in-out;
+  font-weight: bold;
+  font-style: normal;
+  font-size:14px;
+  color: #FFFFFF;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#workspaces button.persistent{
+  color: #FFFFFF;
+  background-color: @purple;
+  border-radius: 20px;
+  min-width: 35px;
+  background-size: 350% 350%;
+  transition: all 0.2s ease-in-out;
+  font-weight: bold;
+  font-style: normal;
+  font-size:14px;
+  color: #FFFFFF;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#workspaces button.special{
+  color: #FFFFFF;
+  background-color: @purple;
+  border-radius: 20px;
+  min-width: 35px;
+  background-size: 350% 350%;
+  transition: all 0.2s ease-in-out;
+  font-weight: bold;
+  font-style: normal;
+  font-size:14px;
+  color: #FFFFFF;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#workspaces button.visible{
+  color: #FFFFFF;
+  background-color: #242424;
+  border-radius: 20px;
+  min-width: 35px;
+  background-size: 350% 350%;
+  transition: all 0.2s ease-in-out;
+  font-weight: bold;
+  font-style: normal;
+  font-size:14px;
+  color: #FFFFFF;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+#workspaces button.urgent {
+  padding: 0px 10px;
+  margin: 2px 2px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  background-color: #cc241d;
+  transition: all 0.2s ease-in-out;
+  font-weight: bold;
+  font-style: normal;
+  font-size:14px;
+  color:#FFFFFF;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+
+
+
+#taskbar {
+  background: transparent;
+  border-radius: 0px;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  padding: 0px 3px;
 }
 #taskbar button {
+  box-shadow: inset 0 4px #5E5C64;
+  background: transparent;
   border-radius: 0px;
-  background: #000000;
-  color: #7E7979;
-  margin-right: 0px;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  padding: 0px 3px;
 }
 #taskbar button:hover {
-  color: #2A5CDB;
-  background: #2A5CDB;
-  box-shadow: inset 0 -3px #ffebb8;
+  background: transparent;
+  box-shadow: inset 0px 2px #3584e4;
+  border-radius: 0px;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  padding: 0px 3px;
 }
 #taskbar button.minimized {
+  background: transparent;
   border-radius: 0px;
-  background: #000000;
-  color: #FFFFFF;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  padding: 0px 3px;
 }
 #taskbar button.active {
+  background: @selection;
+  box-shadow: inset 0px 2px #3584e4;
   border-radius: 0px;
-  background: #2A5CDB;
-  color: #7E7979;
-  box-shadow: inset 0 -3px #ffffff;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  padding: 0px 3px;
 }
-/* ----------------------------------------------------------------------------------------------------- */
 
 
 
