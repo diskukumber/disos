@@ -152,7 +152,7 @@ Screen locker | [gtklock](https://github.com/jovanlanik/gtklock) • [userinfo-m
 Clipboard Manager | [CopyQ](https://hluk.github.io/CopyQ/)
 Theme Manager | [nwg look](https://github.com/nwg-piotr/nwg-look) • [Kvantum](https://github.com/tsujan/Kvantum) • [qt5ct](https://github.com/desktop-app/qt5ct) • [qt6ct](https://github.com/trialuser02/qt6ct)
 Theme And Sound Theme | [Catppuccin](https://catppuccin-website.vercel.app/) • [Smooth](https://www.pling.com/p/1187979/)
-Cursor And Icon Pack | [Material Cursors](https://github.com/varlesh/material-cursors) • [Papirus Icon Pack](https://github.com/PapirusDevelopmentTeam) • [Papirus Icon Theme folders](https://github.com/catppuccin/papirus-folders)
+Cursor And Icon Pack | [Material Cursors](https://github.com/varlesh/material-cursors) • [Gruvbox Plus Icon Pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack) • [Papirus Icon Theme folders](https://github.com/catppuccin/papirus-folders)
 Audio Control | [pavucontrol](https://github.com/pulseaudio/pavucontrol) • [pasystray](https://github.com/christophgysin/pasystray) • [QjackCtl](https://github.com/rncbc/qjackctl)
 Power Management | [TLP](https://github.com/linrunner/TLP) • [TLPUI](https://github.com/d4nj1/TLPUI) • [auto cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) • [Slimbook Battery](https://github.com/Slimbook-Team/slimbookbattery) • [PowerTOP](https://github.com/fenrus75/powertop) • [swayidle](https://github.com/swaywm/swayidle)
 
