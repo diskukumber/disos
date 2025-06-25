@@ -9,7 +9,7 @@
 </div>
 
 # hyprland-dotfiles
-Khairy Ibrahim dotfiles for Hyprland, Wayland compositor.
+diskukumber dotfiles for Hyprland, Wayland compositor.
 
 # still under development
 This repository will be updated as development progresses.
