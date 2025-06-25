@@ -69,7 +69,8 @@ yay -S bluez bluez-utils blueman networkmanager network-manager-applet
 
 # core apps
 ```sh
-yay -S gnome-keyring nemo nemo-fileroller opensnitch clamav clamtk bleachbit stacer-bin tuxedo-control-center-bin mpv imv 
+yay -S gnome-keyring nemo nemo-fileroller nemo-emblems nemo-preview nemo-image-converter nemo-audio-tab nemo-share nemo-terminal nemo-seahorse  \
+opensnitch clamav clamtk bleachbit stacer-bin tuxedo-control-center-bin mpv imv 
 ```
 
 # VSCodium
