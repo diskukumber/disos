@@ -28,10 +28,10 @@ This repository will be updated as development progresses.
 <details>
 <summary><h3>INSTALLATION Arch And Arch-based distributions</h3></summary>
 
-- After installing hyprland using the [archinstall](https://github.com/archlinux/archinstall) and booting
+- After installing hyprland using [archinstall](https://github.com/archlinux/archinstall) and booting
 to your hyprland fresh install open kityy with super enter and run the fallowing command to remove unnaccery packges
 ```sh
-sudo pacman -Rnscc dunst dolphin wofi
+sudo pacman -Rnscc dunst dolphin wofi polkit-kde-agent
 ```
 - don't forget to insttall [yay](https://github.com/Jguer/yay) the AUR Helper
 - install your web browesr of choes and head to this repo and run the commands below as it fits you
@@ -69,7 +69,7 @@ yay -S bluez bluez-utils blueman networkmanager network-manager-applet
 
 # core apps
 ```sh
-yay -S nemo nemo-fileroller opensnitch clamav clamtk bleachbit stacer-bin tuxedo-control-center-bin mpv imv 
+yay -S gnome-keyring nemo nemo-fileroller opensnitch clamav clamtk bleachbit stacer-bin tuxedo-control-center-bin mpv imv 
 ```
 
 # VSCodium
@@ -80,7 +80,7 @@ yay -S vscodium-bin vscodium-bin-marketplace vscodium-bin-features
 
 # themes
 ```sh
-yay -S nwg-look-bin qt5ct qt6ct adwaita-qt5-git adwaita-qt6-git gnome-themes-extra \
+yay -S gruvbox-gtk-theme-git nwg-look-bin qt5ct qt6ct adwaita-qt5-git adwaita-qt6-git gnome-themes-extra \
 papirus-icon-theme papirus-folders-git googledot-cursor-theme sound-theme-smooth grub-customizer
 ```
 
