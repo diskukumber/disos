@@ -81,8 +81,8 @@ yay -S vscodium-bin vscodium-bin-marketplace vscodium-bin-features
 
 # themes
 ```sh
-yay -S gruvbox-gtk-theme-git nwg-look-bin qt5ct qt6ct adwaita-qt5-git adwaita-qt6-git gnome-themes-extra \
-papirus-icon-theme papirus-folders-git googledot-cursor-theme sound-theme-smooth grub-customizer
+yay -S gruvbox-gtk-theme-git nwg-look-bin qt5ct qt6ct gtk3 gtk4 gnome-themes-extra \
+googledot-cursor-theme sound-theme-smooth grub-customizer
 ```
 
 # Fonts
